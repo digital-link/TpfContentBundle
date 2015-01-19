@@ -9,5 +9,8 @@
             "name": "Dany",
             "email": "dany@opointzero.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": { "Oz\\Tpf\\ContentBundle\\": "" }
+    }
 }
