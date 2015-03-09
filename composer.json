@@ -2,6 +2,7 @@
     "name": "digital-link/tpf-content-bundle",
     "description": "Tpf content bundle",
     "require": {
+        "symfony/symfony": "~2.6",
         "symfony/framework-bundle": "~2.3"
     },
     "authors": [
