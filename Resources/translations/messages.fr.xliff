@@ -370,8 +370,8 @@
                 <target>CHOISSISSEZ</target>
             </trans-unit>
             <trans-unit id="90">
-                <source>commandez</source>
-                <target>COMMANDEZ</target>
+                <source>commander</source>
+                <target>COMMANDER</target>
             </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
@@ -526,7 +526,7 @@
             </trans-unit>
             <trans-unit id="128">
                 <source>recapitulatif-commande</source>
-                <target>Récapitalatif de la commande</target>
+                <target>Récapitulatif de la commande</target>
             </trans-unit>
             <trans-unit id="129">
                 <source>dates-utilisation-fripass</source>
@@ -766,12 +766,24 @@
             </trans-unit>
 			<trans-unit id="187">
 				<source>j-accepte-conditions</source>
-				<target>J’accepte les conditions générale de ventes</target>
+				<target>J’accepte les conditions générales de ventes</target>
 			</trans-unit>
 			<trans-unit id="188">
 				<source>je-desire-recevoir</source>
 				<target>Je désire recevoir les offres spéciales de Fripass.ch</target>
 			</trans-unit>
+            <trans-unit id="189">
+                <source>jour-jours</source>
+                <target>Jour|Jours</target>
+            </trans-unit>
+            <trans-unit id="190">
+                <source>merci-choisir-dates</source>
+                <target><![CDATA[Merci de choisir la ou les dates d'utilisation de votre FriPass. Votre FriPass sera valable uniquement durant les jours sélectionnés.<br/>Aucun report de date n'est possible. Vous pouvez choisir des dates non consécutives. Cependant, la première et la dernière date d'utilisation doivent être séparées d'au maximum un mois (p.ex. si la première utilisation a lieu le 6 janvier, la deuxième et/ou la troisième utilisation doivent avoir lieu, au plus tard, le 6 février).]]></target>
+            </trans-unit>
+            <trans-unit id="186">
+                <source>num-tel</source>
+                <target>+41 (0)32 777 77 78</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
