@@ -22,8 +22,6 @@ class ResourcesTest extends \PHPUnit_Framework_TestCase
 
     public function testViews()
     {
-        $this->markTestSkipped();
-
         /** @var SplFileInfo $file */
 
         $finder = new Finder();
