@@ -780,7 +780,7 @@
                 <source>merci-choisir-dates</source>
                 <target><![CDATA[Merci de choisir la ou les dates d'utilisation de votre FriPass. Votre FriPass sera valable uniquement durant les jours sélectionnés.<br/>Aucun report de date n'est possible. Vous pouvez choisir des dates non consécutives. Cependant, la première et la dernière date d'utilisation doivent être séparées d'au maximum un mois (p.ex. si la première utilisation a lieu le 6 janvier, la deuxième et/ou la troisième utilisation doivent avoir lieu, au plus tard, le 6 février).]]></target>
             </trans-unit>
-            <trans-unit id="186">
+            <trans-unit id="191">
                 <source>num-tel</source>
                 <target>+41 (0)32 777 77 78</target>
             </trans-unit>
