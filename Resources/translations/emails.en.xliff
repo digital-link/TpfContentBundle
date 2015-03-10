@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file datatype="plaintext" original="file.ext" source-language="fr" target-language="fr">
+		<body>
+			<trans-unit id="1">
+				<source>confirmation.titre</source>
+				<target>Your e-ticket is available</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>ne-pas-répondre</source>
+				<target>Remark: please do not answer to this message per email</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>confirmation.contenu</source>
+				<target><![CDATA[
+					<p>Your e-ticket is now available. At your arrival at the service provider, show your printed ticket or your order email information saved on your smartphone. </p>
+					<p>Your FriPass team wishes you nice discoveries!</p>
+					<p><a href="http://www.fripass.ch/en">Fripass.ch</a></p>
+				]]></target>
+			</trans-unit>
+			<trans-unit id="4">
+				<source>confirmation.explication</source>
+				<target>Click here to access to your order and print your ticket(s).</target>
+			</trans-unit>
+			<trans-unit id="5">
+				<source>confirmation.lien</source>
+				<target>Access your order</target>
+			</trans-unit>
+			<trans-unit id="6">
+				<source>m</source>
+				<target>Mister</target>
+			</trans-unit>
+			<trans-unit id="7">
+				<source>f</source>
+				<target>Madam</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

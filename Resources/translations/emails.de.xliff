@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file datatype="plaintext" original="file.ext" source-language="fr" target-language="fr">
+		<body>
+			<trans-unit id="1">
+				<source>confirmation.titre</source>
+				<target>Ihr E-Ticket ist verfügbar</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>ne-pas-répondre</source>
+				<target>Bemerkung: bitte antworten Sie nicht auf dieses Mail.</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>confirmation.contenu</source>
+				<target><![CDATA[
+					<p>Ihr E-Ticket ist nun bereit. Bitte weisen Sie den FriPass beim Leistungsträger auf A4-Papier ausgedruckt oder mit dem Bestätigungsmail auf Ihrem Smartphone vor.</p>
+					<p>Das FriPass-Team wünscht Ihnen spannende Entdeckungen!</p>
+					<p><a href="http://www.fripass.ch/de">Fripass.ch</a></p>
+				]]></target>
+			</trans-unit>
+			<trans-unit id="4">
+				<source>confirmation.explication</source>
+				<target>Klicken Sie hier, um zu Ihrer Bestellung zu gelangen und Ihr(e) Billet(e) zu drucken.</target>
+			</trans-unit>
+			<trans-unit id="5">
+				<source>confirmation.lien</source>
+				<target>Zu Ihrer Bestellung gelangen</target>
+			</trans-unit>
+			<trans-unit id="6">
+				<source>m</source>
+				<target>Herr</target>
+			</trans-unit>
+			<trans-unit id="7">
+				<source>f</source>
+				<target>Frau</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
