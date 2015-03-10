@@ -30,6 +30,9 @@ class ResourcesTest extends \PHPUnit_Framework_TestCase
         {
             $filename = str_replace('views/fr', 'views/de', $file->getPathname());
             $this->assertFileExists($filename);
+
+            $filename = str_replace('views/fr', 'views/en', $file->getPathname());
+            $this->assertFileExists($filename);
         }
     }
 }
