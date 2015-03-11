@@ -369,13 +369,25 @@
                 <source>choississez</source>
                 <target>CHOOSE</target>
             </trans-unit>
+            <trans-unit id="89-1">
+                <source>pout-1-2-3-jours</source>
+                <target>For 1, 2 or 3 days, for an adult, a child or a family, for tomorrow or next week-end, the choice is yours?</target>
+            </trans-unit>
             <trans-unit id="90">
                 <source>commander</source>
                 <target>ORDER</target>
             </trans-unit>
+            <trans-unit id="90-1">
+                <source>rentrez-coordonnees</source>
+                <target>Fill out your contact details, proceed to the paiement and you have got your FriPass!</target>
+            </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
                 <target>USE</target>
+            </trans-unit>
+            <trans-unit id="91-1">
+                <source>imprimez-votre-fripass</source>
+                <target>Print your FriPass or register it on your smartphone. It is time for adventure!</target>
             </trans-unit>
             <trans-unit id="92">
                 <source>votre-fripass</source>
@@ -782,7 +794,7 @@
             </trans-unit>
             <trans-unit id="191">
                 <source>num-tel</source>
-                <target>+41 (0)32 777 77 78</target>
+                <target>+41 (0)26 407 70 20</target>
             </trans-unit>
             <trans-unit id="192">
                 <source>achat-désactiver-titre</source>
@@ -791,6 +803,15 @@
             <trans-unit id="193">
                 <source>achat-désactiver-descripiton</source>
                 <target>L'achat de carte sera bientôt disponible.</target>
+            </trans-unit>
+            <trans-unit id="194">
+                <source>visitez-graduitement</source>
+                <target><![CDATA[
+					<span class="color009297">
+					VISITEZ GRATUITEMENT<br>
+					30 ATTRACTIONS TOURISTIQUES ET VOYAGEZ LIBREMENT<br>
+					</span>
+					DANS TOUT LE CANTON DE FRIBOURG]]></target>
             </trans-unit>
         </body>
     </file>

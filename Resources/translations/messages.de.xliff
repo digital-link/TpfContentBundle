@@ -369,13 +369,25 @@
                 <source>choississez</source>
                 <target>WÄHLEN SIE</target>
             </trans-unit>
+            <trans-unit id="89-1">
+                <source>pout-1-2-3-jours</source>
+                <target>Für 1, 2  oder 3 Tage, für einen Erwachsenen, ein Kind oder eine Familie, für morgen oder nächstes Wochenende - Sie haben die Wahl!</target>
+            </trans-unit>
             <trans-unit id="90">
                 <source>commander</source>
                 <target>BESTELLEN</target>
             </trans-unit>
+            <trans-unit id="90-1">
+                <source>rentrez-coordonnees</source>
+                <target>Kontaktdaten eintragen, bezahlen - und der FriPass gehört Ihnen!</target>
+            </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
                 <target>NUTZEN SIE</target>
+            </trans-unit>
+            <trans-unit id="91-1">
+                <source>imprimez-votre-fripass</source>
+                <target>Drucken Sie Ihren FriPass aus oder speichern Sie ihn auf Ihrem Smartphone - das Abenteuer kann beginnen!</target>
             </trans-unit>
             <trans-unit id="92">
                 <source>votre-fripass</source>
@@ -782,7 +794,7 @@
             </trans-unit>
             <trans-unit id="191">
                 <source>num-tel</source>
-                <target>+41 (0)32 777 77 78</target>
+                <target>+41 (0)26 407 70 20</target>
             </trans-unit>
             <trans-unit id="192">
                 <source>achat-désactiver-titre</source>
@@ -791,6 +803,15 @@
             <trans-unit id="193">
                 <source>achat-désactiver-descripiton</source>
                 <target>L'achat de carte sera bientôt disponible.</target>
+            </trans-unit>
+            <trans-unit id="194">
+                <source>visitez-graduitement</source>
+                <target><![CDATA[
+					<span class="color009297">
+					VISITEZ GRATUITEMENT<br>
+					30 ATTRACTIONS TOURISTIQUES ET VOYAGEZ LIBREMENT<br>
+					</span>
+					DANS TOUT LE CANTON DE FRIBOURG]]></target>
             </trans-unit>
         </body>
     </file>
