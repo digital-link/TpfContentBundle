@@ -784,6 +784,14 @@
                 <source>num-tel</source>
                 <target>+41 (0)32 777 77 78</target>
             </trans-unit>
+            <trans-unit id="192">
+                <source>achat-désactiver-titre</source>
+                <target>Information</target>
+            </trans-unit>
+            <trans-unit id="193">
+                <source>achat-désactiver-descripiton</source>
+                <target>L'achat de carte sera bientôt disponible.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
