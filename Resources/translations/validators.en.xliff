@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file datatype="plaintext" original="file.ext" source-language="fr" target-language="fr">
+		<body>
+			<trans-unit id="1">
+				<source>panier-sans-détail</source>
+				<target>Your cart is empty.</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>validités-non-uniques</source>
+				<target>Validity dates are repeating.</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>carte-déjà-oblitérée</source>
+				<target><![CDATA[The card %reference% has already been stamped on <strong>%date%</strong>.]]></target>
+			</trans-unit>
+			<trans-unit id="3a">
+				<source>carte-expirée</source>
+				<target>The card %reference% expired.</target>
+			</trans-unit>
+			<trans-unit id="3b">
+				<source>carte-non-obliterable-aujourdhui</source>
+				<target>The card %reference% is not valid today.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

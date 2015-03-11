@@ -4,6 +4,7 @@ namespace Oz\Tpf\ContentBundle\Tests;
 
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Finder\SplFileInfo;
+use Symfony\Component\Translation\Loader\XliffFileLoader;
 
 class ResourcesTest extends \PHPUnit_Framework_TestCase
 {
@@ -15,15 +16,13 @@ class ResourcesTest extends \PHPUnit_Framework_TestCase
         $finder->in(__DIR__.'/../Resources/translations');
         foreach($finder->files() as $file)
         {
-            $xml = @simplexml_load_string($file->getContents());
-            $this->assertNotFalse($xml, $file->getRelativePathname().' is wrong');
+            $loader = new XliffFileLoader();
+            $loader->load($file, 'fr');
         }
     }
 
     public function testViews()
     {
-        $this->markTestSkipped();
-
         /** @var SplFileInfo $file */
 
         $finder = new Finder();
@@ -31,6 +30,9 @@ class ResourcesTest extends \PHPUnit_Framework_TestCase
         foreach($finder->files() as $file)
         {
             $filename = str_replace('views/fr', 'views/de', $file->getPathname());
+            $this->assertFileExists($filename);
+
+            $filename = str_replace('views/fr', 'views/en', $file->getPathname());
             $this->assertFileExists($filename);
         }
     }
