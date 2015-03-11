@@ -43,7 +43,7 @@
             </trans-unit>
             <trans-unit id="11">
                 <source>carte-déjà-oblitérée</source>
-                <target><![CDATA[Die Karte %reference% wird wieder entwertet am <strong>%date%</strong>.]]></target>
+                <target><![CDATA[Die Karte %reference% wird schon entwertet am <strong>%date%</strong>.]]></target>
             </trans-unit>
             <trans-unit id="11-1">
                 <source>carte-expirée</source>
@@ -558,7 +558,7 @@
             </trans-unit>
             <trans-unit id="136">
                 <source>acceder-au-paiement</source>
-                <target>Zugang zur Bezahlung</target>
+                <target>Zu Ihrer Bezahlung gelangen</target>
             </trans-unit>
             <trans-unit id="137">
                 <source>commande-n</source>
@@ -602,159 +602,159 @@
             </trans-unit>
             <trans-unit id="147">
                 <source>affichier-qrcode</source>
-                <target>QR CODE AUFSTECKEN</target>
+                <target>QR CODE ANZEIGEN</target>
             </trans-unit>
             <trans-unit id="148">
                 <source>afficher-titre-transport</source>
-                <target>AFFICHER TITRE TRANSPORT</target>
+                <target>FAHRKARTE ANZEIGEN</target>
             </trans-unit>
             <trans-unit id="149">
                 <source>information-prestataires</source>
-                <target>INFORMATIONS DES PRESTATAIRES</target>
+                <target>LEISTUNGSTRÄGER INFORMATIONEN</target>
             </trans-unit>
             <trans-unit id="150">
                 <source>oblitre</source>
-                <target>Oblitéré</target>
+                <target>entwertet</target>
             </trans-unit>
             <trans-unit id="151">
                 <source>non-oblitre</source>
-                <target>Non Oblitéré</target>
+                <target>nicht entwertet</target>
             </trans-unit>
             <trans-unit id="152">
                 <source>retour-commande</source>
-                <target>RETOUR SUR LA COMMANDE</target>
+                <target>ZURÜCK AUF DIE BESTELLUNG</target>
             </trans-unit>
             <trans-unit id="153">
 				<source>arret</source>
-				<target>Arrêt</target>
+				<target>Stop</target>
             </trans-unit>
             <trans-unit id="154">
 				<source>commander-maintenant</source>
-				<target>Commander maintenant</target>
+				<target>Jetzt bestellen</target>
             </trans-unit>
             <trans-unit id="155">
 				<source>interesse</source>
-				<target>Intéressé ?</target>
+				<target>Interessiert?</target>
             </trans-unit>
             <trans-unit id="156">
 				<source>numero-reference</source>
-				<target>Numéro de référence</target>
+				<target>Referenz Nummer</target>
             </trans-unit>
             <trans-unit id="157">
 				<source>validation-transport</source>
-				<target>VALIDATION DU TRANSPORT</target>
+				<target>VERKEHRSMITTEL GÜLTIGKEITS</target>
             </trans-unit>
             <trans-unit id="158">
 				<source>conditions-ventes</source>
-				<target>Conditions générales de ventes</target>
+				<target>Allgemeine Nutzungsbedingungen</target>
             </trans-unit>
             <trans-unit id="159">
 				<source>duree</source>
-				<target>Durée</target>
+				<target>Dauer</target>
             </trans-unit>
             <trans-unit id="160">
 				<source>points-depart</source>
-				<target>Point de départ</target>
+				<target>Startpunkt</target>
             </trans-unit>
             <trans-unit id="161">
 				<source>point-arrivée</source>
-				<target>Point d'arrivée</target>
+				<target>Zielpunkt</target>
             </trans-unit>
             <trans-unit id="162">
 				<source>point-interet</source>
-				<target>Points d'intérêt</target>
+				<target>Sehenswürdigkeit</target>
             </trans-unit>
             <trans-unit id="163">
 				<source>trucs-astuces</source>
-				<target>TRUCS ET ASTUCES</target>
+				<target>TIPPS</target>
             </trans-unit>
 			<trans-unit id="164">
 				<source>idees-itineraires-randonnees</source>
-				<target>IDÉES D'ITINÉRAIRES ET RANDONNÉES</target>
+				<target>ROUTEN- UND WANDERUNGENVORSCHLÄGE</target>
 			</trans-unit>
 			<trans-unit id="165">
 				<source>idees-itineraires</source>
-				<target>IDÉES D’ITINÉRAIRES</target>
+				<target>AUSFLUGSVORSCHLÄGE</target>
 			</trans-unit>
 			<trans-unit id="166">
 				<source>randonnees</source>
-				<target>RANDONNÉES</target>
+				<target>WANDER</target>
 			</trans-unit>
 			<trans-unit id="167">
 				<source>mentions-legales</source>
-				<target>Mentions légales</target>
+				<target>Haftungsausschluss/Datenschutzerklärung </target>
 			</trans-unit>
 			<trans-unit id="168">
 				<source>foire-aux-questions</source>
-				<target>Foire aux questions</target>
+				<target>FAQ</target>
 			</trans-unit>
 			<trans-unit id="169">
 				<source>date-commande</source>
-				<target>Date de commande</target>
+				<target>Bestellungsdatum</target>
 			</trans-unit>
             <trans-unit id="169.5">
                 <source>catégorie</source>
-                <target>Catégorie</target>
+                <target>Kategorie</target>
             </trans-unit>
             <trans-unit id="170">
                 <source>intitulé</source>
-                <target>Intitulé</target>
+                <target>Titel</target>
             </trans-unit>
             <trans-unit id="171">
                 <source>npa</source>
-                <target>NPA</target>
+                <target>PLZ</target>
             </trans-unit>
             <trans-unit id="172">
                 <source>téléphone</source>
-                <target>Téléphone</target>
+                <target>Telefon</target>
             </trans-unit>
             <trans-unit id="173">
                 <source>accessible-train</source>
-                <target>Accessible par tain</target>
+                <target>Zug erreichbar</target>
             </trans-unit>
             <trans-unit id="174">
                 <source>accessible-bus</source>
-                <target>Accessible par bus</target>
+                <target>Bus erreichbar</target>
             </trans-unit>
             <trans-unit id="175">
                 <source>transport-remarque</source>
-                <target>Remarque à propos du transport</target>
+                <target>Verkehrsmittel Bemerkung</target>
             </trans-unit>
             <trans-unit id="176">
                 <source>prix-avec-offre</source>
-                <target>Prix avec offre</target>
+                <target>Preis mit FriPass</target>
             </trans-unit>
             <trans-unit id="177">
                 <source>prix-sans-offre</source>
-                <target>Prix sans offre</target>
+                <target>Preis ohne FriPass</target>
             </trans-unit>
             <trans-unit id="178">
                 <source>longitude</source>
-                <target>Longitude</target>
+                <target>Längengrad</target>
             </trans-unit>
             <trans-unit id="179">
                 <source>latitude</source>
-                <target>Latitude</target>
+                <target>Breitengrad</target>
             </trans-unit>
             <trans-unit id="180">
                 <source>site-internet</source>
-                <target>Site internet</target>
+                <target>Website</target>
             </trans-unit>
             <trans-unit id="181">
                 <source>préstation</source>
-                <target>Préstation</target>
+                <target>Leistung</target>
             </trans-unit>
             <trans-unit id="182">
                 <source>image</source>
-                <target>Image</target>
+                <target>Bild</target>
             </trans-unit>
 			<trans-unit id="183">
 				<source>gratuit-pour-les-enfants</source>
-				<target>Gratuit pour les enfants en-dessous de 6 ans accompagnés d'une personne en possession d'un FriPass (sauf Bains de la Gruyère). Maximum 2 enfants par adulte.</target>
+				<target>Kinder unter 6 Jahren (vor dem 6. Geburtstag) in Begleitung eines Erwachsenen, der im Besitz eines FriPass ist, haben kostenlosen Zugang zu allen im FriPass (ausser Les Bains de la Gruyère) angebotenen Leistungen (max. 2 Kinder pro Erwachsenen.</target>
 			</trans-unit>
             <trans-unit id="184">
                 <source>horaire</source>
-                <target>Horaire</target>
+                <target>Zeitplan</target>
             </trans-unit>
             <trans-unit id="185">
                 <source>vignette</source>
@@ -766,19 +766,19 @@
             </trans-unit>
 			<trans-unit id="187">
 				<source>j-accepte-conditions</source>
-				<target>J’accepte les conditions générales de ventes</target>
+				<target>Ich akzeptiere die allgemeinen Nutzungsbedingungen.</target>
 			</trans-unit>
 			<trans-unit id="188">
 				<source>je-desire-recevoir</source>
-				<target>Je désire recevoir les offres spéciales de Fripass.ch</target>
+				<target>Gerne erhalte ich Spezialangebote zum FriPass.</target>
 			</trans-unit>
             <trans-unit id="189">
                 <source>jour-jours</source>
-                <target>Jour|Jours</target>
+                <target>Tag|Tage</target>
             </trans-unit>
             <trans-unit id="190">
                 <source>merci-choisir-dates</source>
-                <target><![CDATA[Merci de choisir la ou les dates d'utilisation de votre FriPass. Votre FriPass sera valable uniquement durant les jours sélectionnés.<br/>Aucun report de date n'est possible. Vous pouvez choisir des dates non consécutives. Cependant, la première et la dernière date d'utilisation doivent être séparées d'au maximum un mois (p.ex. si la première utilisation a lieu le 6 janvier, la deuxième et/ou la troisième utilisation doivent avoir lieu, au plus tard, le 6 février).]]></target>
+                <target><![CDATA[Bitte wählen Sie die Nutzungsdaten für Ihren FriPass. Ihr FriPass ist nur an den ausgewählten Daten gültig. Die Daten können nicht verschoben werden. Sie können nicht-aufeinanderfolgende Daten wählen.  Die beiden resp. drei Tage müssen jedoch innerhalb eines Monats liegen (z.B. wenn das erste gewählte Datum der 06.01.2015 ist, muss der letzte Nutzungstag spätestes der 06.02.2015 sein).]]></target>
             </trans-unit>
             <trans-unit id="191">
                 <source>num-tel</source>

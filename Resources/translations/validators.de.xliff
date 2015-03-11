@@ -3,23 +3,23 @@
 		<body>
 			<trans-unit id="1">
 				<source>panier-sans-détail</source>
-				<target>Aucun produit dans le panier.</target>
+				<target>Ihr Warenkorb is leer.</target>
 			</trans-unit>
 			<trans-unit id="2">
 				<source>validités-non-uniques</source>
-				<target>Des dates de validité se répètent.</target>
+				<target>Die Gültigkeitsdaten werden wiederholt.</target>
 			</trans-unit>
 			<trans-unit id="3">
 				<source>carte-déjà-oblitérée</source>
-				<target><![CDATA[La carte %reference% a déjà été oblitérée le <strong>%date%</strong>.]]></target>
+				<target><![CDATA[Die Karte %reference% wird schon entwertet am <strong>%date%</strong>.]]></target>
 			</trans-unit>
 			<trans-unit id="3a">
 				<source>carte-expirée</source>
-				<target>La carte %reference% est expirée.</target>
+				<target>Die Karte %reference% ist abgelauft.</target>
 			</trans-unit>
 			<trans-unit id="3b">
 				<source>carte-non-obliterable-aujourdhui</source>
-				<target>La carte %reference% n'est pas valide aujourd'hui.</target>
+				<target>Die Karte %reference% ist heute nicht gültig.</target>
 			</trans-unit>
 		</body>
 	</file>

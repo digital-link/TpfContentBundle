@@ -3,11 +3,11 @@
         <body>
             <trans-unit id="1">
                 <source>commande</source>
-                <target>Commande</target>
+                <target>Order</target>
             </trans-unit>
             <trans-unit id="2">
                 <source>produit</source>
-                <target>Produit</target>
+                <target>Product</target>
             </trans-unit>
             <trans-unit id="3">
                 <source>client</source>
@@ -15,7 +15,7 @@
             </trans-unit>
             <trans-unit id="4">
                 <source>etat</source>
-                <target>Etat</target>
+                <target>Status</target>
             </trans-unit>
             <trans-unit id="5">
                 <source>actions</source>
@@ -23,127 +23,127 @@
             </trans-unit>
             <trans-unit id="6">
                 <source>oblitéré</source>
-                <target>Oblitéré</target>
+                <target>Stamped</target>
             </trans-unit>
             <trans-unit id="7">
                 <source>non-oblitéré</source>
-                <target>Non oblitéré</target>
+                <target>Non stamped</target>
             </trans-unit>
             <trans-unit id="8">
                 <source>oblitérer</source>
-                <target>Oblitérer</target>
+                <target>To stamp</target>
             </trans-unit>
             <trans-unit id="9">
                 <source>administration</source>
-                <target>Administration</target>
+                <target>Management</target>
             </trans-unit>
             <trans-unit id="10">
                 <source>administration-commandes</source>
-                <target>Administration des commandes</target>
+                <target>Order management</target>
             </trans-unit>
             <trans-unit id="11">
                 <source>carte-déjà-oblitérée</source>
-                <target><![CDATA[La carte %reference% a déjà été oblitérée le <strong>%date%</strong>.]]></target>
+                <target><![CDATA[The card %reference% has already been stamped on <strong>%date%</strong>.]]></target>
             </trans-unit>
             <trans-unit id="11-1">
                 <source>carte-expirée</source>
-                <target>La carte %reference% est expirée.</target>
+                <target>The card %reference% expired.</target>
             </trans-unit>
             <trans-unit id="11-2">
                 <source>carte-non-obliterable-aujourdhui</source>
-                <target>La carte %reference% n'est pas valide aujourd'hui.</target>
+                <target>The card %reference% is not valid today.</target>
             </trans-unit>
             <trans-unit id="12">
                 <source>carte-oblitérée</source>
-                <target>La carte %reference% a été correctemement oblitérée.</target>
+                <target>The card %reference% has been successfully stamped.</target>
             </trans-unit>
             <trans-unit id="13">
                 <source>les-prestataires</source>
-                <target>Les prestataires</target>
+                <target>Service providers</target>
             </trans-unit>
             <trans-unit id="14">
                 <source>prestataires</source>
-                <target>prestataires</target>
+                <target>service providers</target>
             </trans-unit>
             <trans-unit id="15">
                 <source>les-tarifs</source>
-                <target>Les tarifs</target>
+                <target>Tariffs</target>
             </trans-unit>
             <trans-unit id="16">
                 <source>cartes-découvertes</source>
-                <target>cartes découvertes</target>
+                <target>Discoveries cards</target>
             </trans-unit>
             <trans-unit id="17">
                 <source>acheter-cette-carte</source>
-                <target>Acheter cette carte</target>
+                <target>Buy this card</target>
             </trans-unit>
             <trans-unit id="18">
                 <source>saisie-informations</source>
-                <target>Saisie des informations</target>
+                <target>Entering informations</target>
             </trans-unit>
             <trans-unit id="19">
                 <source>résumé-commande</source>
-                <target>Résumé de commande</target>
+                <target>Order summary</target>
             </trans-unit>
             <trans-unit id="20">
                 <source>informations-commande</source>
-                <target>Informations commande</target>
+                <target>Order informations</target>
             </trans-unit>
             <trans-unit id="21">
                 <source>informations-client</source>
-                <target>Informations client</target>
+                <target>Client information</target>
             </trans-unit>
             <trans-unit id="22">
                 <source>prénom</source>
-                <target>Prénom</target>
+                <target>First Name</target>
             </trans-unit>
             <trans-unit id="23">
                 <source>nom</source>
-                <target>Nom</target>
+                <target>Last Name</target>
             </trans-unit>
             <trans-unit id="24">
                 <source>référence</source>
-                <target>Référence</target>
+                <target>Reference</target>
             </trans-unit>
             <trans-unit id="25">
                 <source>oblitéré-le</source>
-                <target>Oblitéré, le %date%</target>
+                <target>Stamped on the %date%</target>
             </trans-unit>
             <trans-unit id="26">
                 <source>nombre-commandes-générer</source>
-                <target>Nombre de commandes à générer</target>
+                <target>Number of orders to generate</target>
             </trans-unit>
             <trans-unit id="27">
                 <source>préfixe-référence-commande</source>
-                <target>Préfixe de référence commande</target>
+                <target>Prefix of order reference</target>
             </trans-unit>
             <trans-unit id="28">
                 <source>générer</source>
-                <target>Générer</target>
+                <target>Generate</target>
             </trans-unit>
             <trans-unit id="29">
                 <source>gérérer-commandes</source>
-                <target>Générer des commandes</target>
+                <target>Generate orders</target>
             </trans-unit>
             <trans-unit id="30">
                 <source>commandes-générées</source>
-                <target>Commandes générées: %references%</target>
+                <target>Generated orders: %references%</target>
             </trans-unit>
             <trans-unit id="30-2">
                 <source>commande-générée</source>
-                <target>Commande générée: %reference%</target>
+                <target>Generated order: %reference%</target>
             </trans-unit>
             <trans-unit id="31">
                 <source>générateur-commandes</source>
-                <target>Générateur de commandes</target>
+                <target>Orders generator</target>
             </trans-unit>
             <trans-unit id="32">
                 <source>aucune-oblitération</source>
-                <target>Aucune oblitération</target>
+                <target>No stamp</target>
             </trans-unit>
             <trans-unit id="33">
                 <source>oblitération</source>
-                <target>%total% oblitération|%total% oblitérations</target>
+                <target>%total% stamp|%total% stamps</target>
             </trans-unit>
             <trans-unit id="34">
                 <source>total</source>
@@ -151,247 +151,247 @@
             </trans-unit>
             <trans-unit id="35">
                 <source>statistiques-prestataires</source>
-                <target>Statistiques par prestataires</target>
+                <target>Service providers statistics</target>
             </trans-unit>
             <trans-unit id="36">
                 <source>statistiques-prestataires-explication</source>
-                <target>Liste des prestataires avec leur nombre d'oblitérations par produit.</target>
+                <target>List of the service providers with the number of their stamps per product.</target>
             </trans-unit>
             <trans-unit id="37">
                 <source>filtrer</source>
-                <target>Filtrer</target>
+                <target>Filter</target>
             </trans-unit>
             <trans-unit id="38">
                 <source>date-début</source>
-                <target>Date de début</target>
+                <target>Start date</target>
             </trans-unit>
             <trans-unit id="39">
                 <source>date-fin</source>
-                <target>Date de fin</target>
+                <target>End date</target>
             </trans-unit>
             <trans-unit id="40">
                 <source>filtres</source>
-                <target>Filtres</target>
+                <target>Filters</target>
             </trans-unit>
             <trans-unit id="41">
                 <source>exporter</source>
-                <target>Exporter</target>
+                <target>Export</target>
             </trans-unit>
             <trans-unit id="42">
                 <source>avec</source>
-                <target>avec</target>
+                <target>with</target>
             </trans-unit>
             <trans-unit id="43">
                 <source>ajouter-prestataire</source>
-                <target>Ajouter un nouveau prestataire</target>
+                <target>Add a new service provider</target>
             </trans-unit>
             <trans-unit id="44">
                 <source>entreprise</source>
-                <target>Entreprise</target>
+                <target>Company</target>
             </trans-unit>
             <trans-unit id="45">
                 <source>valider</source>
-                <target>Valider</target>
+                <target>Validate</target>
             </trans-unit>
             <trans-unit id="46">
                 <source>changements-enregistrés</source>
-                <target>Les changements ont été correctement enregistrés.</target>
+                <target>Changes have been successfully saved.</target>
             </trans-unit>
             <trans-unit id="47">
                 <source>prestataire-ajouté</source>
-                <target>Le nouveau prestataire a été correctement ajouté.</target>
+                <target>The new service provider has been successfully added.</target>
             </trans-unit>
             <trans-unit id="48">
                 <source>gestion-prestataires</source>
-                <target>Gestion des prestataires</target>
+                <target>Service providers management</target>
             </trans-unit>
             <trans-unit id="49">
                 <source>éditer-prestataire</source>
-                <target>Editer un prestataire</target>
+                <target>Edit a service provider</target>
             </trans-unit>
             <trans-unit id="50">
                 <source>prestataire</source>
-                <target>Prestataire</target>
+                <target>Service provider</target>
             </trans-unit>
             <trans-unit id="51">
                 <source>connexion</source>
-                <target>Connexion</target>
+                <target>Connection</target>
             </trans-unit>
             <trans-unit id="52">
                 <source>ajouter</source>
-                <target>Ajouter</target>
+                <target>Add</target>
             </trans-unit>
             <trans-unit id="53">
                 <source>modifier</source>
-                <target>Modifier</target>
+                <target>Change</target>
             </trans-unit>
             <trans-unit id="54">
                 <source>mot-de-passe</source>
-                <target>Mot de passe</target>
+                <target>Password</target>
             </trans-unit>
             <trans-unit id="55">
                 <source>mot-de-passe-modifié</source>
-                <target>Le mot de passe a été correctement modifié.</target>
+                <target>The password has been successfully changed.</target>
             </trans-unit>
             <trans-unit id="56">
                 <source>avertir-utilisateur</source>
-                <target>Avertir l'utilisateur par mail.</target>
+                <target>Inform user per email.</target>
             </trans-unit>
             <trans-unit id="57">
                 <source>notifier-mot-de-passe</source>
-                <target>Un mail a été envoyé à l'utilisateur pour l'informer de son nouveau mot de passe.</target>
+                <target>An email has been sent to the user with the new password.</target>
             </trans-unit>
             <trans-unit id="58">
                 <source>compte-modifié</source>
-                <target>Compte modifié</target>
+                <target>Account changed</target>
             </trans-unit>
             <trans-unit id="59">
                 <source>mois-précédent</source>
-                <target>Le mois précédent</target>
+                <target>Previous month</target>
             </trans-unit>
             <trans-unit id="60">
                 <source>mois-actuel</source>
-                <target>Le mois actuel</target>
+                <target>Current month</target>
             </trans-unit>
             <trans-unit id="61">
                 <source>avant-hier</source>
-                <target>Avant-hier</target>
+                <target>Day before yesterday</target>
             </trans-unit>
             <trans-unit id="62">
                 <source>hier</source>
-                <target>Hier</target>
+                <target>Yesterday</target>
             </trans-unit>
             <trans-unit id="63">
                 <source>aujourdhui</source>
-                <target>Aujourd'hui</target>
+                <target>Today</target>
             </trans-unit>
             <trans-unit id="64">
                 <source>produits</source>
-                <target>Produits</target>
+                <target>Products</target>
             </trans-unit>
             <trans-unit id="65">
                 <source>detail-commande</source>
-                <target>Détail de la commande</target>
+                <target>Order detail</target>
             </trans-unit>
             <trans-unit id="66">
                 <source>référence-commande</source>
-                <target>Référence de commande</target>
+                <target>Order reference</target>
             </trans-unit>
             <trans-unit id="67">
                 <source>résumé-carte</source>
-                <target>Résumé de la carte</target>
+                <target>Card summary</target>
             </trans-unit>
             <trans-unit id="68">
                 <source>commandez</source>
-                <target>Commandez</target>
+                <target>Order</target>
             </trans-unit>
             <trans-unit id="69">
                 <source>carte</source>
-                <target>carte</target>
+                <target>card</target>
             </trans-unit>
             <trans-unit id="70">
                 <source>panier</source>
-                <target>Panier</target>
+                <target>Cart</target>
             </trans-unit>
             <trans-unit id="71">
                 <source>prix</source>
-                <target>Prix</target>
+                <target>Price</target>
             </trans-unit>
             <trans-unit id="72">
                 <source>quantité</source>
-                <target>Quantité</target>
+                <target>Quantity</target>
             </trans-unit>
             <trans-unit id="73">
                 <source>x-jour</source>
-                <target>%count% jour|%count% jours</target>
+                <target>%count% day|%count% days</target>
             </trans-unit>
             <trans-unit id="74">
                 <source>choisir-produit</source>
-                <target>Choisir un produit</target>
+                <target>Choose a product</target>
             </trans-unit>
             <trans-unit id="75">
                 <source>confirmation-commande</source>
-                <target>Confirmation de commande</target>
+                <target>Order confirmation</target>
             </trans-unit>
             <trans-unit id="76">
                 <source>informations-carte</source>
-                <target>Informations de la carte</target>
+                <target>Card informations</target>
             </trans-unit>
             <trans-unit id="77">
                 <source>imprimer-carte</source>
-                <target>Imprimer la carte</target>
+                <target>Print the card</target>
             </trans-unit>
             <trans-unit id="78">
                 <source>afficher-qrcode</source>
-                <target>Afficher le QrCode</target>
+                <target>Publish the QrCode</target>
             </trans-unit>
             <trans-unit id="79">
                 <source>télécharger-csv</source>
-                <target>Télécharger (csv)</target>
+                <target>Download (csv)</target>
             </trans-unit>
             <trans-unit id="80">
                 <source>cest-quoi</source>
-                <target>C'est quoi ?</target>
+                <target>What's this?</target>
             </trans-unit>
             <trans-unit id="81">
                 <source>les-activites</source>
-                <target>Les activités</target>
+                <target>The activities</target>
             </trans-unit>
             <trans-unit id="82">
                 <source>les-randonnes</source>
-				<target>Idées d'itinéraires et randonnées</target>
+				<target>Itinerary and walking trails ideas</target>
             </trans-unit>
             <trans-unit id="83">
                 <source>commandez-carte</source>
-                <target>Commandez la carte</target>
+                <target>Order the card</target>
             </trans-unit>
             <trans-unit id="84">
                 <source>activites</source>
-                <target>Activités</target>
+                <target>Activities</target>
             </trans-unit>
             <trans-unit id="85">
                 <source>musees</source>
-                <target>Musées</target>
+                <target>Museums</target>
             </trans-unit>
             <trans-unit id="86">
                 <source>transports</source>
-                <target>Transports</target>
+                <target>Transportation</target>
             </trans-unit>
             <trans-unit id="87">
                 <source>savoir-plus</source>
-                <target>En savoir plus</target>
+                <target>More information</target>
             </trans-unit>
             <trans-unit id="88">
                 <source>mode-emploi</source>
-                <target>Mode d'emploi</target>
+                <target>Instructions for use</target>
             </trans-unit>
             <trans-unit id="89">
                 <source>choississez</source>
-                <target>CHOISSISSEZ</target>
+                <target>CHOOSE</target>
             </trans-unit>
             <trans-unit id="90">
                 <source>commander</source>
-                <target>COMMANDER</target>
+                <target>ORDER</target>
             </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
-                <target>UTILISEZ</target>
+                <target>USE</target>
             </trans-unit>
             <trans-unit id="92">
                 <source>votre-fripass</source>
-                <target>votre FriPass</target>
+                <target>your FriPass</target>
             </trans-unit>
             <trans-unit id="93">
                 <source>jour</source>
-                <target>Jour</target>
+                <target>Day</target>
             </trans-unit>
             <trans-unit id="94">
                 <source>jours</source>
-                <target>Jours</target>
+                <target>Days</target>
             </trans-unit>
             <trans-unit id="95">
                 <source>acheter</source>
-                <target>Acheter</target>
+                <target>Buy</target>
             </trans-unit>
             <trans-unit id="96">
                 <source>contact</source>
@@ -399,86 +399,86 @@
             </trans-unit>
             <trans-unit id="97">
                 <source>conditions-generales</source>
-                <target>Conditions générales</target>
+                <target>General terms of use</target>
             </trans-unit>
             <trans-unit id="98">
                 <source>point-vente</source>
-                <target>Points de vente</target>
+                <target>Sales points</target>
             </trans-unit>
             <trans-unit id="99">
                 <source>commande-brochure</source>
-                <target>Commande de brochure</target>
+                <target>Brochure order</target>
             </trans-unit>
             <trans-unit id="100">
                 <source>tel</source>
-                <target>Tél</target>
+                <target>Ph</target>
             </trans-unit>
             <trans-unit id="101">
                 <source>expiré</source>
-                <target>Expiré</target>
+                <target>Expired</target>
             </trans-unit>
             <trans-unit id="102">
                 <source>validité</source>
-                <target>Validité</target>
+                <target>Validity</target>
             </trans-unit>
             <trans-unit id="103">
                 <source>valide</source>
-                <target>Valide</target>
+                <target>Valid</target>
             </trans-unit>
             <trans-unit id="104">
                 <source>info-vérification</source>
-                <target>Informations de vérification</target>
+                <target>Checking informations</target>
             </trans-unit>
             <trans-unit id="105">
                 <source>le-concept</source>
-                <target>Le concept</target>
+                <target>The concept</target>
             </trans-unit>
             <trans-unit id="106">
                 <source>adresse</source>
-                <target>Adresse</target>
+                <target>Addresse</target>
             </trans-unit>
             <trans-unit id="107">
                 <source>code-postal</source>
-                <target>Code postal</target>
+                <target>Zip code</target>
             </trans-unit>
             <trans-unit id="108">
                 <source>ville</source>
-                <target>Ville</target>
+                <target>Town</target>
             </trans-unit>
             <trans-unit id="109">
                 <source>pays</source>
-                <target>Pays</target>
+                <target>Country</target>
             </trans-unit>
             <trans-unit id="110">
                 <source>e-mail</source>
-                <target>E-mail</target>
+                <target>Email</target>
             </trans-unit>
             <trans-unit id="111">
                 <source>sexe</source>
-                <target>Sexe</target>
+                <target>Gender</target>
             </trans-unit>
             <trans-unit id="112">
                 <source>masculin</source>
-                <target>Masculin</target>
+                <target>Male</target>
             </trans-unit>
             <trans-unit id="113">
                 <source>feminin</source>
-                <target>Féminin</target>
+                <target>Female</target>
             </trans-unit>
             <trans-unit id="114">
                 <source>message_succes_retour_saferpay</source>
                 <target><![CDATA[
-							<p><span>Veuillez vérifier votre boite de réception.</span> Un e-mail de confirmation vous a été envoyé.</p>
-							<p>S'il n'apparait pas, merci de vérifier dans votre courrier indésirable. </p>
-							<p>Si vous ne recevez pas ce mail, merci de nous écrire à info@fripass.ch</p>]]></target>
+							<p><span>Please check your email inbox.</span> A confirmation email has been sent to you.</p>
+							<p>If you have not received it, please check in your spam.</p>
+							<p>If you do not receive the email, please write to admin@fripass.ch</p>]]></target>
             </trans-unit>
             <trans-unit id="115">
                 <source>message_back_retour_saferpay</source>
-                <target>Le paiement par carte de crédit a été annulé.</target>
+                <target>Credit card payment cancelled.</target>
             </trans-unit>
             <trans-unit id="116">
                 <source>message_fail_retour_saferpay</source>
-                <target>Une erreur est survenue lors du paiement. Ceci peut provenir d'un numéro CVV erroné ou d'un code 3D-Secure mal saisi.</target>
+                <target>An error occured during the payment process. This may be due to an incorrect CVV number or a 3D-Secure code mistyped.</target>
             </trans-unit>
             <trans-unit id="117">
                 <source>options</source>
@@ -486,11 +486,11 @@
             </trans-unit>
             <trans-unit id="118">
                 <source>génération-commande-en-cours</source>
-                <target>Génération des commandes en cours...</target>
+                <target>Generating orders...</target>
             </trans-unit>
             <trans-unit id="119">
                 <source>le-fripass</source>
-                <target>Le fripass</target>
+                <target>The FriPass</target>
             </trans-unit>
             <trans-unit id="120">
                 <source>description</source>
@@ -498,23 +498,23 @@
             </trans-unit>
             <trans-unit id="121">
                 <source>les-produits</source>
-                <target>Les produits</target>
+                <target>The products</target>
             </trans-unit>
             <trans-unit id="122">
                 <source>éditer-produit</source>
-                <target>Editer un produit</target>
+                <target>Edit a product</target>
             </trans-unit>
             <trans-unit id="123">
                 <source>gestion-produits</source>
-                <target>Gestion des produits</target>
+                <target>Management of the products</target>
             </trans-unit>
             <trans-unit id="124">
                 <source>annuler</source>
-                <target>Annuler</target>
+                <target>Cancel</target>
             </trans-unit>
             <trans-unit id="125">
                 <source>encore-questions</source>
-                <target>Encore des questions ?</target>
+                <target>More questions?</target>
             </trans-unit>
             <trans-unit id="126">
                 <source>position</source>
@@ -522,211 +522,211 @@
             </trans-unit>
             <trans-unit id="127">
                 <source>votre-panier</source>
-                <target>votre Panier</target>
+                <target>Your cart</target>
             </trans-unit>
             <trans-unit id="128">
                 <source>recapitulatif-commande</source>
-                <target>Récapitulatif de la commande</target>
+                <target>Order summary</target>
             </trans-unit>
             <trans-unit id="129">
                 <source>dates-utilisation-fripass</source>
-                <target>Dates d'utilisation du fripass</target>
+                <target>FriPass date(s) of use</target>
             </trans-unit>
             <trans-unit id="130">
                 <source>supprimer</source>
-                <target>Supprimer</target>
+                <target>Remove</target>
             </trans-unit>
             <trans-unit id="131">
                 <source>details</source>
-                <target>Détails</target>
+                <target>Details</target>
             </trans-unit>
             <trans-unit id="132">
                 <source>prix-unitaire</source>
-                <target>Prix-Unitaire</target>
+                <target>Unit price</target>
             </trans-unit>
             <trans-unit id="133">
                 <source>message-pour-le-paiement</source>
-                <target>Pour le paiement de votre commande, vous allez être redirigé vers le site sécurisé de Saferpay.</target>
+                <target>For the order payment, you will be redirected to the secured website of Saferpay.</target>
             </trans-unit>
             <trans-unit id="134">
                 <source>information-verification</source>
-                <target>INFORMATIONS DE VERIFICATION</target>
+                <target>CHECKING INFORMATIONS</target>
             </trans-unit>
             <trans-unit id="135">
                 <source>commande-effectuer-avec-success</source>
-                <target>VOTRE COMMANDE A ÉTÉ EFFECTUÉE AVEC SUCCÈS !</target>
+                <target>YOUR ORDER SUCCEDDED!</target>
             </trans-unit>
             <trans-unit id="136">
                 <source>acceder-au-paiement</source>
-                <target>ACCEDER AU PAIEMENT</target>
+                <target>ACCESS TO PAYEMENT</target>
             </trans-unit>
             <trans-unit id="137">
                 <source>commande-n</source>
-                <target>COMMANDE N° </target>
+                <target>ORDER NR. </target>
             </trans-unit>
            <trans-unit id="138">
                 <source>etat</source>
-                <target>ÉTAT</target>
+                <target>STATUS</target>
             </trans-unit>
             <trans-unit id="139">
                 <source>print</source>
-                <target>IMPRIMER</target>
+                <target>PRINT</target>
             </trans-unit>
             <trans-unit id="140">
                 <source>see</source>
-                <target>VOIR</target>
+                <target>SEE</target>
             </trans-unit>
             <trans-unit id="141">
                 <source>adultes</source>
-                <target>Adultes</target>
+                <target>Adults</target>
             </trans-unit>
             <trans-unit id="142">
                 <source>date-utilisation</source>
-                <target>DATES D'UTILISATION</target>
+                <target>DATE(S) OF USE</target>
             </trans-unit>
             <trans-unit id="143">
                 <source>continuer-sur-site</source>
-                <target>CONTINUER SUR LE SITE</target>
+                <target>CONTINUE ON THE WEBSITE</target>
             </trans-unit>
             <trans-unit id="144">
                 <source>detail-carte</source>
-                <target>DÉTAILS DE LA CARTE</target>
+                <target>CARD DETAILS</target>
             </trans-unit>
             <trans-unit id="145">
                 <source>informations-fripass</source>
-                <target>INFORMATIONS DU FRIPASS</target>
+                <target>FRIPASS INFORMATIONS</target>
             </trans-unit>
             <trans-unit id="146">
                 <source>validation-activites</source>
-                <target>VALIDATION DES ACTIVITÉS</target>
+                <target>ACTIVITIES VALIDATION</target>
             </trans-unit>
             <trans-unit id="147">
                 <source>affichier-qrcode</source>
-                <target>AFFICHER LE QR CODE</target>
+                <target>PUBLISH THE QR CODE</target>
             </trans-unit>
             <trans-unit id="148">
                 <source>afficher-titre-transport</source>
-                <target>AFFICHER TITRE TRANSPORT</target>
+                <target>PUBLISH THE PUBLIC TRANSPORT TICKET</target>
             </trans-unit>
             <trans-unit id="149">
                 <source>information-prestataires</source>
-                <target>INFORMATIONS DES PRESTATAIRES</target>
+                <target>SERVICE PROVIDERS INFORMATIONS</target>
             </trans-unit>
             <trans-unit id="150">
                 <source>oblitre</source>
-                <target>Oblitéré</target>
+                <target>Stamped</target>
             </trans-unit>
             <trans-unit id="151">
                 <source>non-oblitre</source>
-                <target>Non Oblitéré</target>
+                <target>Non stamped</target>
             </trans-unit>
             <trans-unit id="152">
                 <source>retour-commande</source>
-                <target>RETOUR SUR LA COMMANDE</target>
+                <target>BACK TO THE ORDER</target>
             </trans-unit>
             <trans-unit id="153">
 				<source>arret</source>
-				<target>Arrêt</target>
+				<target>Stop</target>
             </trans-unit>
             <trans-unit id="154">
 				<source>commander-maintenant</source>
-				<target>Commander maintenant</target>
+				<target>Order now</target>
             </trans-unit>
             <trans-unit id="155">
 				<source>interesse</source>
-				<target>Intéressé ?</target>
+				<target>Interested?</target>
             </trans-unit>
             <trans-unit id="156">
 				<source>numero-reference</source>
-				<target>Numéro de référence</target>
+				<target>Reference number</target>
             </trans-unit>
             <trans-unit id="157">
 				<source>validation-transport</source>
-				<target>VALIDATION DU TRANSPORT</target>
+				<target>PUBLIC TRANSPORT VALIDATION</target>
             </trans-unit>
             <trans-unit id="158">
 				<source>conditions-ventes</source>
-				<target>Conditions générales de ventes</target>
+				<target>General terms of use</target>
             </trans-unit>
             <trans-unit id="159">
 				<source>duree</source>
-				<target>Durée</target>
+				<target>Duration</target>
             </trans-unit>
             <trans-unit id="160">
 				<source>points-depart</source>
-				<target>Point de départ</target>
+				<target>Starting point</target>
             </trans-unit>
             <trans-unit id="161">
 				<source>point-arrivée</source>
-				<target>Point d'arrivée</target>
+				<target>End point</target>
             </trans-unit>
             <trans-unit id="162">
 				<source>point-interet</source>
-				<target>Points d'intérêt</target>
+				<target>Points of interest</target>
             </trans-unit>
             <trans-unit id="163">
 				<source>trucs-astuces</source>
-				<target>TRUCS ET ASTUCES</target>
+				<target>TIPPS</target>
             </trans-unit>
 			<trans-unit id="164">
 				<source>idees-itineraires-randonnees</source>
-				<target>IDÉES D'ITINÉRAIRES ET RANDONNÉES</target>
+				<target>ITINERARY AND WALKING TRAILS IDEAS</target>
 			</trans-unit>
 			<trans-unit id="165">
 				<source>idees-itineraires</source>
-				<target>IDÉES D’ITINÉRAIRES</target>
+				<target>ITINERARY IDEAS</target>
 			</trans-unit>
 			<trans-unit id="166">
 				<source>randonnees</source>
-				<target>RANDONNÉES</target>
+				<target>WALKING TRAILS</target>
 			</trans-unit>
 			<trans-unit id="167">
 				<source>mentions-legales</source>
-				<target>Mentions légales</target>
+				<target>Privacy statement</target>
 			</trans-unit>
 			<trans-unit id="168">
 				<source>foire-aux-questions</source>
-				<target>Foire aux questions</target>
+				<target>FAQ</target>
 			</trans-unit>
 			<trans-unit id="169">
 				<source>date-commande</source>
-				<target>Date de commande</target>
+				<target>Order date</target>
 			</trans-unit>
             <trans-unit id="169.5">
                 <source>catégorie</source>
-                <target>Catégorie</target>
+                <target>Category</target>
             </trans-unit>
             <trans-unit id="170">
                 <source>intitulé</source>
-                <target>Intitulé</target>
+                <target>Title</target>
             </trans-unit>
             <trans-unit id="171">
                 <source>npa</source>
-                <target>NPA</target>
+                <target>Zip code</target>
             </trans-unit>
             <trans-unit id="172">
                 <source>téléphone</source>
-                <target>Téléphone</target>
+                <target>Phone</target>
             </trans-unit>
             <trans-unit id="173">
                 <source>accessible-train</source>
-                <target>Accessible par tain</target>
+                <target>Accessible by tain</target>
             </trans-unit>
             <trans-unit id="174">
                 <source>accessible-bus</source>
-                <target>Accessible par bus</target>
+                <target>Accessible by bus</target>
             </trans-unit>
             <trans-unit id="175">
                 <source>transport-remarque</source>
-                <target>Remarque à propos du transport</target>
+                <target>Remark concerning the public transport</target>
             </trans-unit>
             <trans-unit id="176">
                 <source>prix-avec-offre</source>
-                <target>Prix avec offre</target>
+                <target>Price with FriPass</target>
             </trans-unit>
             <trans-unit id="177">
                 <source>prix-sans-offre</source>
-                <target>Prix sans offre</target>
+                <target>Price without FriPass</target>
             </trans-unit>
             <trans-unit id="178">
                 <source>longitude</source>
@@ -738,11 +738,11 @@
             </trans-unit>
             <trans-unit id="180">
                 <source>site-internet</source>
-                <target>Site internet</target>
+                <target>Website</target>
             </trans-unit>
             <trans-unit id="181">
                 <source>préstation</source>
-                <target>Préstation</target>
+                <target>Service</target>
             </trans-unit>
             <trans-unit id="182">
                 <source>image</source>
@@ -750,11 +750,11 @@
             </trans-unit>
 			<trans-unit id="183">
 				<source>gratuit-pour-les-enfants</source>
-				<target>Gratuit pour les enfants en-dessous de 6 ans accompagnés d'une personne en possession d'un FriPass (sauf Bains de la Gruyère). Maximum 2 enfants par adulte.</target>
+				<target>Children under 6 years (5.99) accompanied by an adult with a FriPass can access all attractions included in the FriPass free of charge (except for Les Bains de la Gruyère). Maximum 2 children per adult.</target>
 			</trans-unit>
             <trans-unit id="184">
                 <source>horaire</source>
-                <target>Horaire</target>
+                <target>Timetable</target>
             </trans-unit>
             <trans-unit id="185">
                 <source>vignette</source>
@@ -762,23 +762,23 @@
             </trans-unit>
             <trans-unit id="186">
                 <source>file</source>
-                <target>Fichier</target>
+                <target>File</target>
             </trans-unit>
 			<trans-unit id="187">
 				<source>j-accepte-conditions</source>
-				<target>J’accepte les conditions générales de ventes</target>
+				<target>I accept the general terms of use.</target>
 			</trans-unit>
 			<trans-unit id="188">
 				<source>je-desire-recevoir</source>
-				<target>Je désire recevoir les offres spéciales de Fripass.ch</target>
+				<target>I would like to receive the special offers of the FriPass.</target>
 			</trans-unit>
             <trans-unit id="189">
                 <source>jour-jours</source>
-                <target>Jour|Jours</target>
+                <target>Day|Days</target>
             </trans-unit>
             <trans-unit id="190">
                 <source>merci-choisir-dates</source>
-                <target><![CDATA[Merci de choisir la ou les dates d'utilisation de votre FriPass. Votre FriPass sera valable uniquement durant les jours sélectionnés.<br/>Aucun report de date n'est possible. Vous pouvez choisir des dates non consécutives. Cependant, la première et la dernière date d'utilisation doivent être séparées d'au maximum un mois (p.ex. si la première utilisation a lieu le 6 janvier, la deuxième et/ou la troisième utilisation doivent avoir lieu, au plus tard, le 6 février).]]></target>
+                <target><![CDATA[Please choose the date(s) of use for your FriPass. Your FriPass is only valid during selected days. No date report is possible. You can choose non-consecutive dates. The first and the last date of use can only be separated by a maximum of one month (for example if the first date of use is January 6th, the sencond and/or the third date have to be used at the latest February 6th).]]></target>
             </trans-unit>
             <trans-unit id="191">
                 <source>num-tel</source>
