@@ -4,6 +4,7 @@ namespace Oz\Tpf\ContentBundle\Tests;
 
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Finder\SplFileInfo;
+use Symfony\Component\Translation\Loader\XliffFileLoader;
 
 class ResourcesTest extends \PHPUnit_Framework_TestCase
 {
@@ -15,8 +16,8 @@ class ResourcesTest extends \PHPUnit_Framework_TestCase
         $finder->in(__DIR__.'/../Resources/translations');
         foreach($finder->files() as $file)
         {
-            $xml = @simplexml_load_string($file->getContents());
-            $this->assertNotFalse($xml, $file->getRelativePathname().' is wrong');
+            $loader = new XliffFileLoader();
+            $loader->load($file, 'fr');
         }
     }
 
