@@ -777,11 +777,11 @@
                 <target>File</target>
             </trans-unit>
 			<trans-unit id="187">
-				<source>accepter-conditions</source>
+				<source>j-accepte-conditions</source>
 				<target>I accept the general terms of use.</target>
 			</trans-unit>
 			<trans-unit id="188">
-				<source>recevoir-offres</source>
+				<source>je-desire-recevoir</source>
 				<target>I would like to receive the special offers of the FriPass.</target>
 			</trans-unit>
             <trans-unit id="189">
@@ -802,16 +802,32 @@
             </trans-unit>
             <trans-unit id="193">
                 <source>achat-désactiver-descripiton</source>
-                <target>L'achat de carte sera bientôt disponible.</target>
+                <target>The FriPass will be available for sale from March 30th, 2015. See you soon !</target>
             </trans-unit>
             <trans-unit id="194">
                 <source>visitez-graduitement</source>
                 <target><![CDATA[
 					<span class="color009297">
-					VISITEZ GRATUITEMENT<br>
-					30 ATTRACTIONS TOURISTIQUES ET VOYAGEZ LIBREMENT<br>
+					Visit 30 tourist attractions for free<br>
 					</span>
-					DANS TOUT LE CANTON DE FRIBOURG]]></target>
+					Unlimited and free travel in the entire Fribourg region]]></target>
+            </trans-unit>
+            <trans-unit id="195">
+                <source>carte-reseau-transports</source>
+                <target><![CDATA[Map of the public transport area <span class="color009297">included in the FriPass</span>]]></target>
+            </trans-unit>
+            <trans-unit id="196">
+                <source>gratuit</source>
+                <target>Gratuit</target>
+            </trans-unit>
+            <trans-unit id="197">
+                <source>impregnez-paysages-magiques</source>
+                <target><![CDATA[
+					Soak up the beautiful landscapes<br>
+					<span class="colorCC205C">
+						of the Fribourg region thanks to our<br>
+						itinerary and hiking ideas !
+					</span>]]></target>
             </trans-unit>
         </body>
     </file>

@@ -777,11 +777,11 @@
                 <target>Fichier</target>
             </trans-unit>
 			<trans-unit id="187">
-				<source>accepter-conditions</source>
+				<source>j-accepte-conditions</source>
 				<target>J’accepte les conditions générales de ventes</target>
 			</trans-unit>
 			<trans-unit id="188">
-				<source>recevoir-offres</source>
+				<source>je-desire-recevoir</source>
 				<target>Je désire recevoir les offres spéciales de Fripass.ch</target>
 			</trans-unit>
             <trans-unit id="189">
@@ -802,7 +802,7 @@
             </trans-unit>
             <trans-unit id="193">
                 <source>achat-désactiver-descripiton</source>
-                <target>L'achat de carte sera bientôt disponible.</target>
+                <target>Le FriPass sera disponible à la vente à partir du 30 mars 2015. A bientôt !</target>
             </trans-unit>
             <trans-unit id="194">
                 <source>visitez-graduitement</source>
@@ -812,6 +812,23 @@
 					30 ATTRACTIONS TOURISTIQUES ET VOYAGEZ LIBREMENT<br>
 					</span>
 					DANS TOUT LE CANTON DE FRIBOURG]]></target>
+            </trans-unit>
+            <trans-unit id="195">
+                <source>carte-reseau-transports</source>
+                <target><![CDATA[Carte du réseau de transports publics <span class="color009297">inclus dans le FriPass</span>]]></target>
+            </trans-unit>
+            <trans-unit id="196">
+                <source>gratuit</source>
+                <target>Gratuit</target>
+            </trans-unit>
+            <trans-unit id="197">
+                <source>impregnez-paysages-magiques</source>
+                <target><![CDATA[
+					IMPRÉGNEZ-VOUS DES PAYSAGES MAGIQUES<br>
+					<span class="colorCC205C">
+						DU CANTON DE FRIBOURG GRÂCE À NOS IDÉES<br>
+						D'ITINÉRAIRES ET DE RANDONNÉES !
+					</span>]]></target>
             </trans-unit>
         </body>
     </file>

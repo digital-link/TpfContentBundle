@@ -694,7 +694,7 @@
 			</trans-unit>
 			<trans-unit id="167">
 				<source>mentions-legales</source>
-				<target>Haftungsausschluss/Datenschutzerklärung </target>
+				<target>Haftungsausschluss Datenschutzerklärung </target>
 			</trans-unit>
 			<trans-unit id="168">
 				<source>foire-aux-questions</source>
@@ -777,11 +777,11 @@
                 <target>Fichier</target>
             </trans-unit>
 			<trans-unit id="187">
-				<source>accepter-conditions</source>
+				<source>j-accepte-conditions</source>
 				<target>Ich akzeptiere die allgemeinen Nutzungsbedingungen.</target>
 			</trans-unit>
 			<trans-unit id="188">
-				<source>recevoir-offres</source>
+				<source>je-desire-recevoir</source>
 				<target>Gerne erhalte ich Spezialangebote zum FriPass.</target>
 			</trans-unit>
             <trans-unit id="189">
@@ -802,16 +802,31 @@
             </trans-unit>
             <trans-unit id="193">
                 <source>achat-désactiver-descripiton</source>
-                <target>L'achat de carte sera bientôt disponible.</target>
+                <target>Der FriPass wird ab dem 30. März 2015 zum Verkauf angeboten. Bis bald !</target>
             </trans-unit>
             <trans-unit id="194">
                 <source>visitez-graduitement</source>
                 <target><![CDATA[
 					<span class="color009297">
-					VISITEZ GRATUITEMENT<br>
-					30 ATTRACTIONS TOURISTIQUES ET VOYAGEZ LIBREMENT<br>
+					Erhalten Sie kostenlosen Zutritt zu 30 touristischen Attraktionen <br>
 					</span>
-					DANS TOUT LE CANTON DE FRIBOURG]]></target>
+					Reisen Sie kostenlos durch den ganzen Kanton Freiburg]]></target>
+            </trans-unit>
+            <trans-unit id="195">
+                <source>carte-reseau-transports</source>
+                <target><![CDATA[Übersichtskarte öffentlicher Verkehr im <span class="color009297">FriPass inklusive</span>]]></target>
+            </trans-unit>
+            <trans-unit id="196">
+                <source>gratuit</source>
+                <target>Gratuit</target>
+            </trans-unit>
+            <trans-unit id="197">
+                <source>impregnez-paysages-magiques</source>
+                <target><![CDATA[
+					Geniessen Sie die wunderbaren Landschaften<br>
+					<span class="colorCC205C">
+						 des Kantons Freiburg dank unseren Wandervorschlägen !
+					</span>]]></target>
             </trans-unit>
         </body>
     </file>
