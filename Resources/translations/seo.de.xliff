@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file datatype="plaintext" original="file.ext" source-language="fr" target-language="fr">
+		<body>
+			<trans-unit id="1">
+				<source>page.homepage.title</source>
+				<target>Besuchen Sie Fribourg mit dem FriPass</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>page.homepage.description</source>
+				<target>Der Pass ermöglicht Ihnen, zu einem unschlagbaren Preis, freien Zutritt zu 30 touristischen Attraktionen und lässt Sie ungehindert mit den öV im ganzen Kanton reisen!</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>page.what-is-it.title</source>
+				<target>Was sind die Vorteile?</target>
+			</trans-unit>
+			<trans-unit id="4">
+				<source>page.what-is-it.description</source>
+				<target>Aktivitäten, Mussen und Transporte in 1 Pass zu einem super Preis: unverzichtbar beim Aufenthalt in Freiburg! Lernen Sie über die Vorteile des FriPass kennen</target>
+			</trans-unit>
+			<trans-unit id="5">
+				<source>page.activities.title</source>
+				<target>Aktivitäten, Museen, Freizeit Fribourg</target>
+			</trans-unit>
+			<trans-unit id="6">
+				<source>page.activities.description</source>
+				<target>Entdecken Sie einige der Aktivitäten: Maison Cailler, Papiliorama, Museen von Freiburg, Schloss Greyerz, Les Bains de la Gruyère, Gipfel des Molésons, usw.</target>
+			</trans-unit>
+			<trans-unit id="7">
+				<source>page.itinerary-and-walking.title</source>
+				<target>Strecken- und Wandervorschläge!</target>
+			</trans-unit>
+			<trans-unit id="8">
+				<source>page.itinerary-and-walking.description</source>
+				<target>Entdecken Sie unsere Strecken- und Wandervorschläge des FriPass und erleben Sie einen unvergesslichen Tag mit Ihren Freunden oder Ihrer Familie im Kanton Freiburg</target>
+			</trans-unit>
+			<trans-unit id="9">
+				<source>page.order.title</source>
+				<target>Bestellen Sie online</target>
+			</trans-unit>
+			<trans-unit id="10">
+				<source>page.order.description</source>
+				<target>Bestellen Sie in wenigen Sekunden Ihren FriPass und profitieren Sie von einer vielzahl Vorteile: Mit 1 Pass Aktivitäten und Transport im ganzen Kanton Freiburg erleben</target>
+			</trans-unit>
+			<trans-unit id="11">
+				<source>page.general-terms.title</source>
+				<target>Allgemeine Nutzungsbedingungen des Passes</target>
+			</trans-unit>
+			<trans-unit id="12">
+				<source>page.general-terms.description</source>
+				<target>Erfahren Sie mehr über die allgemeinen Verkaufs- und Nutzungsbedingungen des FriPass: Tarife, Konditionen, Annulation, Rückerstattung, usw….</target>
+			</trans-unit>
+			<trans-unit id="13">
+				<source>page.privacy-statement.title</source>
+				<target>Datenschutz</target>
+			</trans-unit>
+			<trans-unit id="14">
+				<source>page.privacy-statement.description</source>
+				<target>Erfahren Sie mehr über die Datenschutzbedingungen vom FriPass</target>
+			</trans-unit>
+			<trans-unit id="15">
+				<source>page.points-of-sale.title</source>
+				<target>Wo können Sie den Pass kaufen?</target>
+			</trans-unit>
+			<trans-unit id="16">
+				<source>page.points-of-sale.description</source>
+				<target>Online oder bei unseren Partnern. Informieren Sie sich über die Verkaufsstellen im Kanton Freiburg des FriPass</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

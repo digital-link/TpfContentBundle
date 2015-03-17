@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file datatype="plaintext" original="file.ext" source-language="fr" target-language="fr">
+		<body>
+			<trans-unit id="1">
+				<source>page.homepage.title</source>
+				<target>Visit Fribourg with the FriPass</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>page.homepage.description</source>
+				<target>This pass offers you unlimited and free travel by public transport and free visits of 30 tourist attractions in the entire Fribourg region for a very nice price !</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>page.what-is-it.title</source>
+				<target>What are your advantages ?</target>
+			</trans-unit>
+			<trans-unit id="4">
+				<source>page.what-is-it.description</source>
+				<target>Activities, museums and transports in an unique pass for a very nice price: essential for your stay in Fribourg! Look at all the advantages of the FriPass</target>
+			</trans-unit>
+			<trans-unit id="5">
+				<source>page.activities.title</source>
+				<target>Activities, Museums, Leisure activities Fribourg</target>
+			</trans-unit>
+			<trans-unit id="6">
+				<source>page.activities.description</source>
+				<target>Here are some of the activities to visit : Maison Cailler, Papiliorama, the Fribourg museums, the castle and les Bains de la Gruyère, the summit of Moléson, etc.</target>
+			</trans-unit>
+			<trans-unit id="7">
+				<source>page.itinerary-and-walking.title</source>
+				<target>Itinerary and walking trails ideas !</target>
+			</trans-unit>
+			<trans-unit id="8">
+				<source>page.itinerary-and-walking.description</source>
+				<target>Discover our itinerary and walking trails ideas with the FriPass and share an unforgeatable day with friends or family in Fribourg region.</target>
+			</trans-unit>
+			<trans-unit id="9">
+				<source>page.order.title</source>
+				<target>Order online !</target>
+			</trans-unit>
+			<trans-unit id="10">
+				<source>page.order.description</source>
+				<target>Order the FriPass in a few minutes on the website and enjoy a lot of advantages : activities and transports in the whole Fribourg region with a unique pass</target>
+			</trans-unit>
+			<trans-unit id="11">
+				<source>page.general-terms.title</source>
+				<target>General terms of use of your pass</target>
+			</trans-unit>
+			<trans-unit id="12">
+				<source>page.general-terms.description</source>
+				<target>Check the general terms of sale and use of your FriPass : rates, conditions, cancellations, refunds, etc…</target>
+			</trans-unit>
+			<trans-unit id="13">
+				<source>page.privacy-statement.title</source>
+				<target>Privacy statement</target>
+			</trans-unit>
+			<trans-unit id="14">
+				<source>page.privacy-statement.description</source>
+				<target>Check the privacy statement of the FriPass.</target>
+			</trans-unit>
+			<trans-unit id="15">
+				<source>page.points-of-sale.title</source>
+				<target>Where can you buy your pass ?</target>
+			</trans-unit>
+			<trans-unit id="16">
+				<source>page.points-of-sale.description</source>
+				<target>Online or beside one of our partners, check the points of sale of the FriPass in Fribourg region</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

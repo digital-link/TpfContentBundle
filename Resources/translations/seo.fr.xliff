@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file datatype="plaintext" original="file.ext" source-language="fr" target-language="fr">
+		<body>
+			<trans-unit id="1">
+				<source>page.homepage.title</source>
+				<target>Visitez Fribourg avec la carte Fripass</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>page.homepage.description</source>
+				<target>Ce pass vous permet d'entrer gratuitement dans 30 attractions touristiques et de voyager librement en transport publics dans tout le canton à prix sympa !</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>page.what-is-it.title</source>
+				<target>Quels sont les avantages ?</target>
+			</trans-unit>
+			<trans-unit id="4">
+				<source>page.what-is-it.description</source>
+				<target>Activités, musées et transports dans un seul pass à prix sympa : indispensable lors de votre séjour à Fribourg ! Consultez tous les avantages du FriPass</target>
+			</trans-unit>
+			<trans-unit id="5">
+				<source>page.activities.title</source>
+				<target>Activités, musées, loisirs à Fribourg</target>
+			</trans-unit>
+			<trans-unit id="6">
+				<source>page.activities.description</source>
+				<target>Voici quelques-unes des activités à visiter : La Maison Cailler, Papiliorama, les Musées fribourgeois, le Château et les Bains de la Gruyère, le Moléson, etc.</target>
+			</trans-unit>
+			<trans-unit id="7">
+				<source>page.itinerary-and-walking.title</source>
+				<target>Idées d'itinéraires et de randonnées canton de Fribourg</target>
+			</trans-unit>
+			<trans-unit id="8">
+				<source>page.itinerary-and-walking.description</source>
+				<target>Découvrez nos idées d'itinéraires et de randonnées avec FriPass et partagez une journée inoubliable entre amis ou en famille dans le canton de Fribourg.</target>
+			</trans-unit>
+			<trans-unit id="9">
+				<source>page.order.title</source>
+				<target>Commandez en ligne</target>
+			</trans-unit>
+			<trans-unit id="10">
+				<source>page.order.description</source>
+				<target>Commandez le FriPass en quelques minutes sur le site et profitez de ses nombreux avantages : activités et transports dans tout le canton de Fribourg en un seul pass</target>
+			</trans-unit>
+			<trans-unit id="11">
+				<source>page.general-terms.title</source>
+				<target>Conditions générales de votre pass</target>
+			</trans-unit>
+			<trans-unit id="12">
+				<source>page.general-terms.description</source>
+				<target>Consultez les conditions générales de vente et d'utilisation de votre carte FriPass : tarifs, conditions, annulation, remboursement, etc…</target>
+			</trans-unit>
+			<trans-unit id="13">
+				<source>page.privacy-statement.title</source>
+				<target>Mentions légales</target>
+			</trans-unit>
+			<trans-unit id="14">
+				<source>page.privacy-statement.description</source>
+				<target>Consultez les mentions légales de la carte FriPass.</target>
+			</trans-unit>
+			<trans-unit id="15">
+				<source>page.points-of-sale.title</source>
+				<target>Où acheter votre pass ?</target>
+			</trans-unit>
+			<trans-unit id="16">
+				<source>page.points-of-sale.description</source>
+				<target>En ligne ou auprès de nos partenaires, consultez les divers points de vente du FriPass dans le canton de Fribourg</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
