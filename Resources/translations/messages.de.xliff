@@ -366,7 +366,7 @@
                 <target>Gebrauchsanweisung</target>
             </trans-unit>
             <trans-unit id="89">
-                <source>choississez</source>
+                <source>choisissez</source>
                 <target>WÄHLEN SIE</target>
             </trans-unit>
             <trans-unit id="89-1">
@@ -379,7 +379,7 @@
             </trans-unit>
             <trans-unit id="90-1">
                 <source>rentrez-coordonnees</source>
-                <target>Kontaktdaten eintragen, bezahlen - und der FriPass gehört Ihnen!</target>
+                <target>Bestellen Ihre FriPass en BESTELLEN SIE Ihren Fripass!</target>
             </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
@@ -762,7 +762,7 @@
             </trans-unit>
 			<trans-unit id="183">
 				<source>gratuit-pour-les-enfants</source>
-				<target>Kinder unter 6 Jahren (vor dem 6. Geburtstag) in Begleitung eines Erwachsenen, der im Besitz eines FriPass ist, haben kostenlosen Zugang zu allen im FriPass (ausser Les Bains de la Gruyère) angebotenen Leistungen (max. 2 Kinder pro Erwachsenen.</target>
+				<target>Kostenlos für Kinder unter 6 Jahren in Begleitung einer Person mit FriPass (ausser Les Bains de la Gruyère). Maximum 2 Kinder pro Erwachsener.</target>
 			</trans-unit>
             <trans-unit id="184">
                 <source>horaire</source>
@@ -827,6 +827,14 @@
 					<span class="colorCC205C">
 						 des Kantons Freiburg dank unseren Wandervorschlägen !
 					</span>]]></target>
+            </trans-unit>
+            <trans-unit id="198">
+                <source>sans-fripass</source>
+                <target>Sans le FriPass</target>
+            </trans-unit>
+            <trans-unit id="199">
+                <source>avec-fripass</source>
+                <target>Avec le FriPass</target>
             </trans-unit>
         </body>
     </file>

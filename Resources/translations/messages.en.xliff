@@ -366,7 +366,7 @@
                 <target>Instructions for use</target>
             </trans-unit>
             <trans-unit id="89">
-                <source>choississez</source>
+                <source>choisissez</source>
                 <target>CHOOSE</target>
             </trans-unit>
             <trans-unit id="89-1">
@@ -828,6 +828,14 @@
 						of the Fribourg region thanks to our<br>
 						itinerary and hiking ideas !
 					</span>]]></target>
+            </trans-unit>
+            <trans-unit id="198">
+                <source>sans-fripass</source>
+                <target>Sans le FriPass</target>
+            </trans-unit>
+            <trans-unit id="199">
+                <source>avec-fripass</source>
+                <target>Avec le FriPass</target>
             </trans-unit>
         </body>
     </file>
