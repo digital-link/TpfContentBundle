@@ -65,6 +65,14 @@
 				<source>page.points-of-sale.description</source>
 				<target>Online or beside one of our partners, check the points of sale of the FriPass in Fribourg region</target>
 			</trans-unit>
+            <trans-unit id="17">
+                <source>page.faq.title</source>
+                <target>FAQ</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>page.faq.description</source>
+                <target>FAQ</target>
+            </trans-unit>
 		</body>
 	</file>
 </xliff>

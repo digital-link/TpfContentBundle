@@ -61,10 +61,18 @@
 				<source>page.points-of-sale.title</source>
 				<target>Où acheter votre pass ?</target>
 			</trans-unit>
-			<trans-unit id="16">
-				<source>page.points-of-sale.description</source>
-				<target>En ligne ou auprès de nos partenaires, consultez les divers points de vente du FriPass dans le canton de Fribourg</target>
-			</trans-unit>
+            <trans-unit id="16">
+                <source>page.points-of-sale.description</source>
+                <target>En ligne ou auprès de nos partenaires, consultez les divers points de vente du FriPass dans le canton de Fribourg</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>page.faq.title</source>
+                <target>FAQ</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>page.faq.description</source>
+                <target>FAQ</target>
+            </trans-unit>
 		</body>
 	</file>
 </xliff>

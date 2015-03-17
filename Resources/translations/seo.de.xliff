@@ -65,6 +65,14 @@
 				<source>page.points-of-sale.description</source>
 				<target>Online oder bei unseren Partnern. Informieren Sie sich über die Verkaufsstellen im Kanton Freiburg des FriPass</target>
 			</trans-unit>
+            <trans-unit id="17">
+                <source>page.faq.title</source>
+                <target>FAQ</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>page.faq.description</source>
+                <target>FAQ</target>
+            </trans-unit>
 		</body>
 	</file>
 </xliff>
