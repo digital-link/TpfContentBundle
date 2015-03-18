@@ -379,7 +379,7 @@
             </trans-unit>
             <trans-unit id="90-1">
                 <source>rentrez-coordonnees</source>
-                <target>Rentrez vos coordonnées, procédez au paiement et l’affaire est dans le sac</target>
+                <target>Insérez vos coordonnées, procédez au paiement et l’affaire est dans le sac</target>
             </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
@@ -415,7 +415,7 @@
             </trans-unit>
             <trans-unit id="98">
                 <source>point-vente</source>
-                <target>Points de vente</target>
+                <target>Points de vente et d'échange</target>
             </trans-unit>
             <trans-unit id="99">
                 <source>commande-brochure</source>
