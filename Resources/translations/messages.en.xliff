@@ -777,11 +777,11 @@
                 <target>File</target>
             </trans-unit>
 			<trans-unit id="187">
-				<source>j-accepte-conditions</source>
+				<source>accepter-conditions</source>
 				<target>I accept the general terms of use.</target>
 			</trans-unit>
 			<trans-unit id="188">
-				<source>je-desire-recevoir</source>
+				<source>recevoir-offres</source>
 				<target>I would like to receive the special offers of the FriPass.</target>
 			</trans-unit>
             <trans-unit id="189">
