@@ -777,11 +777,11 @@
                 <target>Fichier</target>
             </trans-unit>
 			<trans-unit id="187">
-				<source>j-accepte-conditions</source>
+				<source>accepter-conditions</source>
 				<target>J’accepte les conditions générales de ventes</target>
 			</trans-unit>
 			<trans-unit id="188">
-				<source>je-desire-recevoir</source>
+				<source>recevoir-offres</source>
 				<target>Je désire recevoir les offres spéciales de Fripass.ch</target>
 			</trans-unit>
             <trans-unit id="189">
