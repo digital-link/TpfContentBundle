@@ -837,6 +837,10 @@
                 <source>avec-fripass</source>
                 <target>With FriPass</target>
             </trans-unit>
+            <trans-unit id="200">
+                <source>date-naissance</source>
+                <target>Birthday</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
