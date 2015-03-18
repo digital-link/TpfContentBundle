@@ -379,7 +379,7 @@
             </trans-unit>
             <trans-unit id="90-1">
                 <source>rentrez-coordonnees</source>
-                <target>Bestellen Ihre FriPass en BESTELLEN SIE Ihren Fripass!</target>
+                <target>Kontaktdaten eintragen, bezahlen - und der FriPass gehört Ihnen!</target>
             </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
@@ -830,11 +830,11 @@
             </trans-unit>
             <trans-unit id="198">
                 <source>sans-fripass</source>
-                <target>Sans le FriPass</target>
+                <target>Ohne FriPass</target>
             </trans-unit>
             <trans-unit id="199">
                 <source>avec-fripass</source>
-                <target>Avec le FriPass</target>
+                <target>Mit FriPass</target>
             </trans-unit>
         </body>
     </file>

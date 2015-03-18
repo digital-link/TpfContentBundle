@@ -366,8 +366,8 @@
                 <target>Mode d'emploi</target>
             </trans-unit>
             <trans-unit id="89">
-                <source>choisissez</source>
-                <target>Choisissez</target>
+                <source>choississez</source>
+                <target>CHOISSISSEZ</target>
             </trans-unit>
             <trans-unit id="89-1">
                 <source>pout-1-2-3-jours</source>
@@ -375,15 +375,15 @@
             </trans-unit>
             <trans-unit id="90">
                 <source>commander</source>
-                <target>Commander</target>
+                <target>COMMANDER</target>
             </trans-unit>
             <trans-unit id="90-1">
                 <source>rentrez-coordonnees</source>
-                <target>Insérez vos coordonnées, procédez au paiement et l’affaire est dans le sac</target>
+                <target>Rentrez vos coordonnées, procédez au paiement et l’affaire est dans le sac</target>
             </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
-                <target>Utilisez</target>
+                <target>UTILISEZ</target>
             </trans-unit>
             <trans-unit id="91-1">
                 <source>imprimez-votre-fripass</source>
@@ -415,7 +415,7 @@
             </trans-unit>
             <trans-unit id="98">
                 <source>point-vente</source>
-                <target>Points de vente et d'échange</target>
+                <target>Points de vente</target>
             </trans-unit>
             <trans-unit id="99">
                 <source>commande-brochure</source>
@@ -678,7 +678,7 @@
             </trans-unit>
             <trans-unit id="163">
 				<source>trucs-astuces</source>
-				<target>TRUCS ET ASTUCES</target>
+				<target>Le petit plus</target>
             </trans-unit>
 			<trans-unit id="164">
 				<source>idees-itineraires-randonnees</source>

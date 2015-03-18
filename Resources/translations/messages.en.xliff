@@ -67,7 +67,7 @@
             </trans-unit>
             <trans-unit id="15">
                 <source>les-tarifs</source>
-                <target>Tariffs</target>
+                <target>Rates</target>
             </trans-unit>
             <trans-unit id="16">
                 <source>cartes-découvertes</source>
@@ -371,7 +371,7 @@
             </trans-unit>
             <trans-unit id="89-1">
                 <source>pout-1-2-3-jours</source>
-                <target>For 1, 2 or 3 days, for an adult, a child or a family, for tomorrow or next week-end, the choice is yours?</target>
+                <target>For 1, 2 or 3 days, for an adult, a child or a family, for tomorrow or next week-end, the choice is yours!</target>
             </trans-unit>
             <trans-unit id="90">
                 <source>commander</source>
@@ -379,7 +379,7 @@
             </trans-unit>
             <trans-unit id="90-1">
                 <source>rentrez-coordonnees</source>
-                <target>Fill out your contact details, proceed to the paiement and you have got your FriPass!</target>
+                <target>Fill out your contact details, proceed to the payment and you have got your FriPass!</target>
             </trans-unit>
             <trans-unit id="91">
                 <source>utilisez</source>
@@ -762,7 +762,7 @@
             </trans-unit>
 			<trans-unit id="183">
 				<source>gratuit-pour-les-enfants</source>
-				<target>Children under 6 years (5.99) accompanied by an adult with a FriPass can access all attractions included in the FriPass free of charge (except for Les Bains de la Gruyère). Maximum 2 children per adult.</target>
+				<target>Children under 6 years accompanied by an adult with a FriPass can access all attractions included in the FriPass free of charge (except for Les Bains de la Gruyère). Maximum 2 children per adult.</target>
 			</trans-unit>
             <trans-unit id="184">
                 <source>horaire</source>
@@ -831,11 +831,11 @@
             </trans-unit>
             <trans-unit id="198">
                 <source>sans-fripass</source>
-                <target>Sans le FriPass</target>
+                <target>Without FriPass</target>
             </trans-unit>
             <trans-unit id="199">
                 <source>avec-fripass</source>
-                <target>Avec le FriPass</target>
+                <target>With FriPass</target>
             </trans-unit>
         </body>
     </file>
