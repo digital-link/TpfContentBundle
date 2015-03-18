@@ -282,7 +282,7 @@
                 <target>Kartezusammenfassung</target>
             </trans-unit>
             <trans-unit id="68">
-                <source>commandez</source>
+                <source>commander</source>
                 <target>Bestellen</target>
             </trans-unit>
             <trans-unit id="69">
@@ -374,8 +374,8 @@
                 <target>Für 1, 2  oder 3 Tage, für einen Erwachsenen, ein Kind oder eine Familie, für morgen oder nächstes Wochenende - Sie haben die Wahl!</target>
             </trans-unit>
             <trans-unit id="90">
-                <source>commander</source>
-                <target>BESTELLEN</target>
+                <source>commandez</source>
+                <target>BESTELLEN SIE</target>
             </trans-unit>
             <trans-unit id="90-1">
                 <source>rentrez-coordonnees</source>
