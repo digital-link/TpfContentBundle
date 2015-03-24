@@ -437,6 +437,10 @@
                 <source>valide</source>
                 <target>Valid</target>
             </trans-unit>
+            <trans-unit id="103b">
+                <source>invalide</source>
+                <target>Invalid</target>
+            </trans-unit>
             <trans-unit id="104">
                 <source>info-vérification</source>
                 <target>Checking informations</target>
