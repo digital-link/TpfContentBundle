@@ -846,6 +846,10 @@
                 <source>date-naissance</source>
                 <target>Date de naissance</target>
             </trans-unit>
+            <trans-unit id="201">
+                <source>limite-achat</source>
+                <target>Limite d'achat</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
