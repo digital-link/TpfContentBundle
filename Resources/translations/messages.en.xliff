@@ -857,6 +857,14 @@
 				<source>conditions</source>
 				<target>Terms of use</target>
             </trans-unit>
+            <trans-unit id="204">
+				<source>text-slider-1</source>
+				<target><![CDATA[Visit 30 tourist attractions for free]]></target>
+            </trans-unit>
+            <trans-unit id="205">
+				<source>text-slider-2</source>
+				<target>Unlimited and free travel by public transport in the entire Fribourg region</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

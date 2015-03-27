@@ -856,6 +856,14 @@
 				<source>conditions</source>
 				<target>Allgemeine</target>
             </trans-unit>
+            <trans-unit id="204">
+				<source>text-slider-1</source>
+				<target><![CDATA[Kostenloser Zugang zu 30 touristischen Attraktionen]]></target>
+            </trans-unit>
+            <trans-unit id="205">
+				<source>text-slider-2</source>
+				<target>Freie Fahrt mit den öffentlichen Verkehrsmitteln im ganzen Kanton Freiburg</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

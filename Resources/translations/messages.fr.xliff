@@ -858,6 +858,14 @@
 				<source>conditions</source>
 				<target>Conditions</target>
             </trans-unit>
+            <trans-unit id="204">
+				<source>text-slider-1</source>
+				<target><![CDATA[Libre accès à<br>30 attractions touristiques]]></target>
+            </trans-unit>
+            <trans-unit id="205">
+				<source>text-slider-2</source>
+				<target>Voyage illimité en transports publics dans tout le canton de Fribourg</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
