@@ -558,7 +558,7 @@
             </trans-unit>
             <trans-unit id="132">
                 <source>prix-unitaire</source>
-                <target>Prix-Unitaire</target>
+                <target>Prix Unitaire</target>
             </trans-unit>
             <trans-unit id="133">
                 <source>message-pour-le-paiement</source>
@@ -849,6 +849,14 @@
             <trans-unit id="201">
                 <source>limite-achat</source>
                 <target>Limite d'achat</target>
+            </trans-unit>
+            <trans-unit id="202">
+                <source>retrouvez-informations-pratiques</source>
+                <target>Retrouvez toutes les informations pratiques des partenaires sur : www.fripass.ch</target>
+            </trans-unit>
+            <trans-unit id="203">
+				<source>conditions</source>
+				<target>Conditions</target>
             </trans-unit>
         </body>
     </file>

@@ -849,6 +849,14 @@
                 <source>limite-achat</source>
                 <target>Buy limit</target>
             </trans-unit>
+            <trans-unit id="202">
+                <source>retrouvez-informations-pratiques</source>
+                <target>Retrouvez toutes les informations pratiques des partenaires sur : www.fripass.ch</target>
+            </trans-unit>
+            <trans-unit id="203">
+				<source>conditions</source>
+				<target>Terms of use</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
