@@ -865,6 +865,14 @@
 				<source>text-slider-2</source>
 				<target>Unlimited and free travel by public transport in the entire Fribourg region</target>
             </trans-unit>
+            <trans-unit id="206">
+				<source>mr</source>
+				<target>Mr</target>
+            </trans-unit>
+            <trans-unit id="207">
+				<source>mme</source>
+				<target>Mrs</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

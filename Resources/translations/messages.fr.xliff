@@ -866,6 +866,14 @@
 				<source>text-slider-2</source>
 				<target>Voyage illimité en transports publics dans tout le canton de Fribourg</target>
             </trans-unit>
+            <trans-unit id="206">
+				<source>mr</source>
+				<target>M</target>
+            </trans-unit>
+            <trans-unit id="207">
+				<source>mme</source>
+				<target>Mme</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

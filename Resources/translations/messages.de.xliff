@@ -299,7 +299,7 @@
             </trans-unit>
             <trans-unit id="72">
                 <source>quantité</source>
-                <target>Anzhal</target>
+                <target>Anzahal</target>
             </trans-unit>
             <trans-unit id="73">
                 <source>x-jour</source>
@@ -391,7 +391,7 @@
             </trans-unit>
             <trans-unit id="92">
                 <source>votre-fripass</source>
-                <target>Ihre FriPass</target>
+                <target>Ihren FriPass</target>
             </trans-unit>
             <trans-unit id="93">
                 <source>jour</source>
@@ -546,7 +546,7 @@
             </trans-unit>
             <trans-unit id="129">
                 <source>dates-utilisation-fripass</source>
-                <target>Daten des Gebrauches dem FriPass</target>
+                <target>Nutzungsdaten für FriPass</target>
             </trans-unit>
             <trans-unit id="130">
                 <source>supprimer</source>
@@ -863,6 +863,14 @@
             <trans-unit id="205">
 				<source>text-slider-2</source>
 				<target>Freie Fahrt mit den öffentlichen Verkehrsmitteln im ganzen Kanton Freiburg</target>
+            </trans-unit>
+            <trans-unit id="206">
+				<source>mr</source>
+				<target>Herr</target>
+            </trans-unit>
+            <trans-unit id="207">
+				<source>mme</source>
+				<target>Frau</target>
             </trans-unit>
         </body>
     </file>

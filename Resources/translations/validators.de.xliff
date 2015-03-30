@@ -3,7 +3,7 @@
 		<body>
 			<trans-unit id="1">
 				<source>panier-sans-détail</source>
-				<target>Ihr Warenkorb is leer.</target>
+				<target>Ihr Warenkorb ist leer.</target>
 			</trans-unit>
 			<trans-unit id="2">
 				<source>validités-non-uniques</source>
