@@ -670,19 +670,19 @@
             </trans-unit>
             <trans-unit id="160">
 				<source>points-depart</source>
-				<target>Startpunkt</target>
+				<target>Ausgangspunkt</target>
             </trans-unit>
             <trans-unit id="161">
 				<source>point-arrivée</source>
-				<target>Zielpunkt</target>
+				<target>Endpunkt</target>
             </trans-unit>
             <trans-unit id="162">
 				<source>point-interet</source>
-				<target>Sehenswürdigkeit</target>
+				<target>Sehenswürdigkeiten</target>
             </trans-unit>
             <trans-unit id="163">
 				<source>trucs-astuces</source>
-				<target>TIPPS</target>
+				<target>TIPP</target>
             </trans-unit>
 			<trans-unit id="164">
 				<source>idees-itineraires-randonnees</source>
