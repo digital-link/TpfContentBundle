@@ -873,6 +873,34 @@
 				<source>mme</source>
 				<target>Mrs</target>
             </trans-unit>
+            <trans-unit id="208">
+                <source>statistiques-clients</source>
+                <target>Statistiques des clients</target>
+            </trans-unit>
+            <trans-unit id="209">
+                <source>statistiques-clients-explication</source>
+                <target>Liste des clients.</target>
+            </trans-unit>
+            <trans-unit id="210">
+                <source>recherche</source>
+                <target>Recherche</target>
+            </trans-unit>
+            <trans-unit id="211">
+                <source>chercher</source>
+                <target>Chercher</target>
+            </trans-unit>
+            <trans-unit id="212">
+				<source>saisir-dates-particulieres</source>
+				<target>Saisir des dates particulières</target>
+            </trans-unit>
+            <trans-unit id="215">
+                <source>parcours</source>
+                <target>record</target>
+            </trans-unit>
+            <trans-unit id="216">
+                <source>exporter-parcours</source>
+                <target>Exporter avec parcours</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
