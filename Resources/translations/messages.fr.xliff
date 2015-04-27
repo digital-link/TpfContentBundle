@@ -642,7 +642,7 @@
             </trans-unit>
             <trans-unit id="153">
 				<source>arret</source>
-				<target>Arrêt</target>
+				<target>Arrêt :</target>
             </trans-unit>
             <trans-unit id="154">
 				<source>commander-maintenant</source>
@@ -836,11 +836,11 @@
             </trans-unit>
             <trans-unit id="198">
                 <source>sans-fripass</source>
-                <target>Sans le FriPass</target>
+                <target>Sans le FriPass :</target>
             </trans-unit>
             <trans-unit id="199">
                 <source>avec-fripass</source>
-                <target>Avec le FriPass</target>
+                <target>Avec le FriPass :</target>
             </trans-unit>
             <trans-unit id="200">
                 <source>date-naissance</source>

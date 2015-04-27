@@ -642,7 +642,7 @@
             </trans-unit>
             <trans-unit id="153">
 				<source>arret</source>
-				<target>Stop</target>
+				<target>Haltestelle:</target>
             </trans-unit>
             <trans-unit id="154">
 				<source>commander-maintenant</source>
@@ -686,7 +686,7 @@
             </trans-unit>
 			<trans-unit id="164">
 				<source>idees-itineraires-randonnees</source>
-				<target>ROUTEN- UND WANDERUNGENVORSCHLÄGE</target>
+				<target>ROUTEN- UND WANDERVORSCHLÄGE</target>
 			</trans-unit>
 			<trans-unit id="165">
 				<source>idees-itineraires</source>
@@ -806,7 +806,7 @@
             </trans-unit>
             <trans-unit id="193">
                 <source>achat-désactiver-descripiton</source>
-                <target>Der FriPass wird ab dem 30. März 2015 zum Verkauf angeboten. Bis bald !</target>
+                <target>Der FriPass wird ab dem 30. März 2015 zum Verkauf angeboten. Bis bald!</target>
             </trans-unit>
             <trans-unit id="194">
                 <source>visitez-graduitement</source>
@@ -829,16 +829,16 @@
                 <target><![CDATA[
 					Geniessen Sie die wunderbaren Landschaften<br>
 					<span class="colorCC205C">
-						 des Kantons Freiburg dank unseren Wandervorschlägen !
+						 des Kantons Freiburg dank unseren Wandervorschlägen!
 					</span>]]></target>
             </trans-unit>
             <trans-unit id="198">
                 <source>sans-fripass</source>
-                <target>Ohne FriPass</target>
+                <target>Ohne FriPass:</target>
             </trans-unit>
             <trans-unit id="199">
                 <source>avec-fripass</source>
-                <target>Mit FriPass</target>
+                <target>Mit FriPass:</target>
             </trans-unit>
             <trans-unit id="200">
                 <source>date-naissance</source>
