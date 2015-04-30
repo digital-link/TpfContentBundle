@@ -806,7 +806,7 @@
             </trans-unit>
             <trans-unit id="193">
                 <source>achat-désactiver-descripiton</source>
-                <target>The FriPass will be available for sale from March 30th, 2015. See you soon !</target>
+                <target>The FriPass will be available for sale from March 30th, 2015. See you soon!</target>
             </trans-unit>
             <trans-unit id="194">
                 <source>visitez-graduitement</source>
@@ -830,16 +830,16 @@
 					Soak up the beautiful landscapes<br>
 					<span class="colorCC205C">
 						of the Fribourg region thanks to our<br>
-						itinerary and hiking ideas !
+						itinerary and hiking ideas!
 					</span>]]></target>
             </trans-unit>
             <trans-unit id="198">
                 <source>sans-fripass</source>
-                <target>Without FriPass :</target>
+                <target>Without FriPass:</target>
             </trans-unit>
             <trans-unit id="199">
                 <source>avec-fripass</source>
-                <target>With FriPass :</target>
+                <target>With FriPass:</target>
             </trans-unit>
             <trans-unit id="200">
                 <source>date-naissance</source>
@@ -851,7 +851,7 @@
             </trans-unit>
             <trans-unit id="202">
                 <source>retrouvez-informations-pratiques</source>
-                <target>Find all practical information on : www.fripass.ch</target>
+                <target>Find all practical information on: www.fripass.ch</target>
             </trans-unit>
             <trans-unit id="203">
 				<source>conditions</source>
