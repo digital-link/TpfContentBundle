@@ -423,7 +423,7 @@
             </trans-unit>
             <trans-unit id="100">
                 <source>tel</source>
-                <target>Ph</target>
+                <target>Ph:</target>
             </trans-unit>
             <trans-unit id="101">
                 <source>expiré</source>
