@@ -901,6 +901,26 @@
                 <source>exporter-parcours</source>
                 <target>Exporter avec parcours</target>
             </trans-unit>
+            <trans-unit id="217">
+                <source>point-of-sale</source>
+                <target>Point of sale</target>
+            </trans-unit>
+            <trans-unit id="218">
+                <source>point-of-sale-undefined</source>
+                <target>-</target>
+            </trans-unit>
+            <trans-unit id="219">
+                <source>point-of-sale-website</source>
+                <target>Bought from the website</target>
+            </trans-unit>
+            <trans-unit id="220">
+                <source>point-of-sale-physical</source>
+                <target>Bought from a shop</target>
+            </trans-unit>
+            <trans-unit id="221">
+                <source>date</source>
+                <target>Date</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
