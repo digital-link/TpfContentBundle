@@ -908,7 +908,7 @@
                 <source>point-of-sale-undefined</source>
                 <target>-</target>
             </trans-unit>
-            <trans-unit id="119">
+            <trans-unit id="219">
                 <source>point-of-sale-website</source>
                 <target>Von der Website kaufen</target>
             </trans-unit>
@@ -919,6 +919,34 @@
             <trans-unit id="221">
                 <source>date</source>
                 <target>Datum</target>
+            </trans-unit>
+            <trans-unit id="222">
+                <source>format</source>
+                <target>Format</target>
+            </trans-unit>
+            <trans-unit id="223">
+                <source>exporter-commande</source>
+                <target>Export by order</target>
+            </trans-unit>
+            <trans-unit id="224">
+                <source>exporter-detail</source>
+                <target>Export by card</target>
+            </trans-unit>
+            <trans-unit id="225">
+                <source>exporter-detail-avec-obliterations</source>
+                <target>Export by card with obliterations</target>
+            </trans-unit>
+            <trans-unit id="226">
+                <source>exporter-detail-avec-obliterations-par-jour</source>
+                <target>Export by card with obliterations by day</target>
+            </trans-unit>
+            <trans-unit id="227">
+                <source>preview</source>
+                <target>Preview</target>
+            </trans-unit>
+            <trans-unit id="228">
+                <source>exporter</source>
+                <target>Export</target>
             </trans-unit>
         </body>
     </file>

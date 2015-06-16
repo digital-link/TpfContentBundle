@@ -921,6 +921,34 @@
                 <source>date</source>
                 <target>Date</target>
             </trans-unit>
+            <trans-unit id="222">
+                <source>format</source>
+                <target>Format</target>
+            </trans-unit>
+            <trans-unit id="223">
+                <source>exporter-commande</source>
+                <target>Export by order</target>
+            </trans-unit>
+            <trans-unit id="224">
+                <source>exporter-detail</source>
+                <target>Export by card</target>
+            </trans-unit>
+            <trans-unit id="225">
+                <source>exporter-detail-avec-obliterations</source>
+                <target>Export by card with obliterations</target>
+            </trans-unit>
+            <trans-unit id="226">
+                <source>exporter-detail-avec-obliterations-par-jour</source>
+                <target>Export by card with obliterations by day</target>
+            </trans-unit>
+            <trans-unit id="227">
+                <source>preview</source>
+                <target>Preview</target>
+            </trans-unit>
+            <trans-unit id="228">
+                <source>exporter</source>
+                <target>Export</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
