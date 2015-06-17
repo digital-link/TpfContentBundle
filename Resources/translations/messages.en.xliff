@@ -949,6 +949,14 @@
                 <source>exporter</source>
                 <target>Export</target>
             </trans-unit>
+            <trans-unit id="229">
+                <source>periode-creation</source>
+                <target>Période de création</target>
+            </trans-unit>
+            <trans-unit id="230">
+                <source>periode-obliteration</source>
+                <target>Période d'utilisation</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
