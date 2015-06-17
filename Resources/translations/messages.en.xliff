@@ -957,6 +957,10 @@
                 <source>periode-obliteration</source>
                 <target>Période d'utilisation</target>
             </trans-unit>
+            <trans-unit id="231">
+                <source>oblitérations</source>
+                <target>Obliterations</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
