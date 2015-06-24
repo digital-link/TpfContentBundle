@@ -950,16 +950,20 @@
                 <target>Export</target>
             </trans-unit>
             <trans-unit id="229">
-                <source>periode-creation</source>
+                <source>période-creation</source>
                 <target>Période de création</target>
             </trans-unit>
             <trans-unit id="230">
-                <source>periode-obliteration</source>
+                <source>période-obliteration</source>
                 <target>Période d'utilisation</target>
             </trans-unit>
             <trans-unit id="231">
                 <source>oblitérations</source>
                 <target>Obliterations</target>
+            </trans-unit>
+            <trans-unit id="232">
+                <source>administration-client</source>
+                <target>Administration des clients</target>
             </trans-unit>
         </body>
     </file>
