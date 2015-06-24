@@ -964,6 +964,10 @@
                 <source>administration-client</source>
                 <target>Administration des clients</target>
             </trans-unit>
+            <trans-unit id="233">
+                <source>gestion-clients</source>
+                <target>Gestion des clients</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
