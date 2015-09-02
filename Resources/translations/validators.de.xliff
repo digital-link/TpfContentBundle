@@ -21,6 +21,14 @@
 				<source>carte-non-obliterable-aujourdhui</source>
 				<target>Die Karte %reference% ist heute nicht gültig.</target>
 			</trans-unit>
+			<trans-unit id="3c">
+				<source>carte-expirée-par-dates-validité</source>
+				<target>Die Karte %reference% ist abgelauft; alle Gültigkeitsdaten sind vergangen.</target>
+			</trans-unit>
+			<trans-unit id="3d">
+				<source>carte-expirée-par-nombre-jours-validité</source>
+				<target>Die Karte %reference% ist abgelauft; die Anzahl der Tage der Gültigkeit abläuft.</target>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>
