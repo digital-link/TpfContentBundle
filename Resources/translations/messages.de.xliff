@@ -968,6 +968,22 @@
                 <source>gestion-clients</source>
                 <target>Gestion des clients</target>
             </trans-unit>
+            <trans-unit id="234">
+                <source>friscape</source>
+                <target>FRISCAPE</target>
+            </trans-unit>
+            <trans-unit id="235">
+                <source>friscape_descr</source>
+                <target>Friscape, ein maßgeschneidertes Kundenerlebnis, mit dem Sie einen unvergesslichen Tag im Kanton Freiburg verbringen können.</target>
+            </trans-unit>
+            <trans-unit id="236">
+                <source>more</source>
+                <target>Mehr Info</target>
+            </trans-unit>
+            <trans-unit id="237">
+                <source>friscape_url</source>
+                <target>https://friscape.fripass.ch/de/</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

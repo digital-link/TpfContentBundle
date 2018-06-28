@@ -978,6 +978,22 @@
                 <source>gestion-clients</source>
                 <target>Gestion des clients</target>
             </trans-unit>
+            <trans-unit id="234">
+                <source>friscape</source>
+                <target>FRISCAPE</target>
+            </trans-unit>
+            <trans-unit id="235">
+                <source>friscape_descr</source>
+                <target>Friscape, une expérience client sur mesure qui va vous permettre de vivre une journée inoubliable dans le canton de Fribourg.</target>
+            </trans-unit>
+            <trans-unit id="236">
+                <source>more</source>
+                <target>En savoir plus</target>
+            </trans-unit>
+            <trans-unit id="237">
+                <source>friscape_url</source>
+                <target>https://friscape.fripass.ch</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
