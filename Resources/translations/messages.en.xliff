@@ -985,6 +985,60 @@
                 <source>friscape_url</source>
                 <target>https://loisirs.fripass.ch/en/</target>
             </trans-unit>
+            <trans-unit id="238">
+                <source>visitmoov</source>
+                <target>Visitmoov – interactive map</target>
+            </trans-unit>
+            <trans-unit id="239">
+                <source>what_is_visitmoov</source>
+                <target>What is Visitmoov ?</target>
+            </trans-unit>
+            <trans-unit id="240">
+                <source>visitmoov_free_download</source>
+                <target>This application is available for free on the App Store and Google Play</target>
+            </trans-unit>
+            <trans-unit id="241">
+                <source>visitmoov_description</source>
+                <target><![CDATA[
+                <h3>For a trip that looks like you</h3>
+                <p>A budget, your wish list, the time you have in front of you ... automatically.</p>
+                <p>automatically Visitmoov organizes a unique discovery experience that adapts to your pace. More than a list of attractions, Visitmoov advises you on places, activities and guides you step by step for a tailor-made discovery of your destination.</p>
+                <p>Welcome, your virtual travel agent, Visitmoov.</p>
+                ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="242">
+                <source>visitmoov_block_1</source>
+                <target><![CDATA[
+                <h3>Magic Tour</h3>
+                <p>Duration of your trip, your interests, your budget, opening hours, Visitmoov offers a tailor-made experience and no surprises.</p>
+                ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="243">
+                <source>visitmoov_block_2</source>
+                <target><![CDATA[
+                <h3>Real time guidance</h3>
+                <p>Transport ... you have 6 hours in front of you and what is worse than wasting time traveling. Visitmoov selects for you the best route.</p>
+                ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="244">
+                <source>visitmoov_block_3</source>
+                <target><![CDATA[
+                <h3>Offline mode</h3>
+                <p>A trip abroad and you want to preserve your connection? Prepare and save your trip to enjoy your visit without a connection.</p>
+                ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="245">
+                <source>visitmoov_block_4</source>
+                <target><![CDATA[
+                <h3>Share your travel</h3>
+                <p>Plan your trip to many by building a tour that fits everyone's desires. No more surprises !</p>
+                ]]>
+                </target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

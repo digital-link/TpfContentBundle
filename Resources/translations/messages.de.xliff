@@ -984,6 +984,60 @@
                 <source>friscape_url</source>
                 <target>https://loisirs.fripass.ch/de/</target>
             </trans-unit>
+            <trans-unit id="238">
+                <source>visitmoov</source>
+                <target>Visitmoov – Interaktive Karte</target>
+            </trans-unit>
+            <trans-unit id="239">
+                <source>what_is_visitmoov</source>
+                <target>Was ist Visitmoov ?</target>
+            </trans-unit>
+            <trans-unit id="240">
+                <source>visitmoov_free_download</source>
+                <target>Die Anwendung ist kostenlos im App Store und Google Play verfügbar</target>
+            </trans-unit>
+            <trans-unit id="241">
+                <source>visitmoov_description</source>
+                <target><![CDATA[
+                <h3>Für Reisen, die zu Ihnen passen</h3>
+                <p>hr Budget, Ihre Interessen, Ihre Zeitvorgaben... automatisch</p>
+                <p>Visitmoov stellt automatisch eine Erlebnisreise zusammen, die zu Ihren individuellen Bedürfnissen passt. Visitmoov schlägt Ihnen also nicht beliebige Attraktionen vor – vielmehr werden Ihnen Orte und Aktivitäten angezeigt, die zu Ihnen passen, und Sie werden Schritt für Schritt bei Ihrem Besuch begleitet.</p>
+                <p>Willkommen, Ihr virtueller Reisebegleiter, Visitmoov.</p>
+                ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="242">
+                <source>visitmoov_block_1</source>
+                <target><![CDATA[
+                <h3>Magic Tour</h3>
+                <p>Visitmoov macht Ihnen unter Berücksichtigung von Öffnungszeiten, der Dauer Ihres Aufenthalts, Ihrer Interessen und Ihres Budgets massgeschneiderte Vorschläge und erspart Ihnen so böse Überraschungen.</p>
+                ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="243">
+                <source>visitmoov_block_2</source>
+                <target><![CDATA[
+                <h3>In Echtzeit navigieren lassen</h3>
+                <p>Sie haben 6 Stunden Fahrt vor sich – was gibt es Schlimmeres, als unnötig Zeit zu verlieren? Visitmoov wählt die beste Route für Sie aus.</p>
+                ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="244">
+                <source>visitmoov_block_3</source>
+                <target><![CDATA[
+                <h3>Offline-Modus</h3>
+                <p>Sie verreisen ins Ausland, aber möchten angemeldet bleiben? Bereiten Sie Ihre Reise im Vorfeld vor und speichern Sie sie ab, um sich bei Ihrem Besuch ganz ohne Internetverbindung den Weg weisen zu lassen.</p>
+                ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="245">
+                <source>visitmoov_block_4</source>
+                <target><![CDATA[
+                <h3>Ihre Reise teilen</h3>
+                <p>Planen Sie Ihre Reise zu mehreren, indem Sie gemeinsam eine Tour gestalten, die die Bedürfnisse aller berücksichtigt. Keine bösen Überraschungen mehr !</p>
+                ]]>
+                </target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
