@@ -73,6 +73,14 @@
                 <source>page.faq.description</source>
                 <target>FAQ</target>
             </trans-unit>
+            <trans-unit id="19">
+                <source>page.visitmoov.title</source>
+                <target>VISITMOOV – INTERACTIVE MAP</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>page.visitmoov.description</source>
+                <target>VISITMOOV – INTERACTIVE MAP</target>
+            </trans-unit>
 		</body>
 	</file>
 </xliff>
