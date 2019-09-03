@@ -986,8 +986,8 @@
                 <target>https://loisirs.fripass.ch/en/</target>
             </trans-unit>
             <trans-unit id="238">
-                <source>visitmoov</source>
-                <target>Visitmoov – interactive map</target>
+                <source>visitmoov_menu</source>
+                <target>VISITMOOV interactive map</target>
             </trans-unit>
             <trans-unit id="239">
                 <source>what_is_visitmoov</source>
