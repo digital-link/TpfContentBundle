@@ -1051,6 +1051,14 @@
                 <source>visitmoov</source>
                 <target>VISITMOOV - carte interactive</target>
             </trans-unit>
+            <trans-unit id="247">
+                <source>statistiques-prestataires-single</source>
+                <target>Statistiques</target>
+            </trans-unit>
+            <trans-unit id="248">
+                <source>statistiques-prestataires-explication-single</source>
+                <target>Oblitérations par produit.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

@@ -1038,6 +1038,14 @@
                 ]]>
                 </target>
             </trans-unit>
+            <trans-unit id="247">
+                <source>statistiques-prestataires-single</source>
+                <target>Statistics</target>
+            </trans-unit>
+            <trans-unit id="248">
+                <source>statistiques-prestataires-explication-single</source>
+                <target>Obliterations by product.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
