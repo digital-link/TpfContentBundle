@@ -1045,6 +1045,18 @@
                 <source>statistiques-prestataires-explication-single</source>
                 <target>Verpflichtungen nach Produkt.</target>
             </trans-unit>
+            <trans-unit id="249">
+                <source>discount</source>
+                <target>Rabat</target>
+            </trans-unit>
+            <trans-unit id="250">
+                <source>action.apply_discount</source>
+                <target>Add</target>
+            </trans-unit>
+             <trans-unit id="251">
+                <source>coupon_code</source>
+                <target>Aktionscode</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

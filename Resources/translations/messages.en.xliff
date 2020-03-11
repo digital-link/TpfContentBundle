@@ -1046,6 +1046,18 @@
                 <source>statistiques-prestataires-explication-single</source>
                 <target>Obliterations by product.</target>
             </trans-unit>
+            <trans-unit id="249">
+                <source>discount</source>
+                <target>Discount</target>
+            </trans-unit>
+            <trans-unit id="250">
+                <source>action.apply_discount</source>
+                <target>Apply</target>
+            </trans-unit>
+             <trans-unit id="251">
+                <source>coupon_code</source>
+                <target>Coupon code</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

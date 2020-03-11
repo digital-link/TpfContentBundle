@@ -1059,6 +1059,20 @@
                 <source>statistiques-prestataires-explication-single</source>
                 <target>Oblitérations par produit.</target>
             </trans-unit>
+            <trans-unit id="249">
+                <source>discount</source>
+                <target>Rabais</target>
+            </trans-unit>
+            <trans-unit id="250">
+                <source>action.apply_discount</source>
+                <target>Appliquer</target>
+            </trans-unit>
+             <trans-unit id="251">
+                <source>coupon_code</source>
+                <target>Code promo</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
+
+
