@@ -1071,6 +1071,70 @@
                 <source>coupon_code</source>
                 <target>Code promo</target>
             </trans-unit>
+            <trans-unit id="252">
+                <source>name</source>
+                <target>Nom</target>
+            </trans-unit>
+            <trans-unit id="253">
+                <source>validity_start</source>
+                <target>Début validité</target>
+            </trans-unit>
+            <trans-unit id="254">
+                <source>validity_end</source>
+                <target>Fin validité</target>
+            </trans-unit>
+            <trans-unit id="255">
+                <source>coupon_code_use</source>
+                <target>Utilisation (utilisé / max.)</target>
+            </trans-unit>
+            <trans-unit id="256">
+                <source>action.submit</source>
+                <target>Sauvegarder</target>
+            </trans-unit>
+            <trans-unit id="257">
+                <source>percent</source>
+                <target>Pourcentage</target>
+            </trans-unit>
+            <trans-unit id="258">
+                <source>chf</source>
+                <target>CHF</target>
+            </trans-unit>
+            <trans-unit id="259">
+                <source>action.add_coupon</source>
+                <target>Ajouter un code promo</target>
+            </trans-unit>
+            <trans-unit id="260">
+                <source>action.edit</source>
+                <target>Modifier</target>
+            </trans-unit>
+            <trans-unit id="261">
+                <source>coupon_codes</source>
+                <target>Codes promo</target>
+            </trans-unit>
+            <trans-unit id="262">
+                <source>action.coupon_generate</source>
+                <target>Générer des codes</target>
+            </trans-unit>
+            <trans-unit id="263">
+                <source>codes</source>
+                <target>Codes</target>
+            </trans-unit>
+            <trans-unit id="264">
+                <source>number</source>
+                <target>Nombre</target>
+            </trans-unit>
+            <trans-unit id="265">
+                <source>max_use</source>
+                <target>Nbr. utilisation max.</target>
+            </trans-unit>
+            <trans-unit id="266">
+                <source>action.coupon_export</source>
+                <target>Exporter les codes</target>
+            </trans-unit>
+            <trans-unit id="267">
+                <source>action.coupon_export_used</source>
+                <target>Exporter les utilisations</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
