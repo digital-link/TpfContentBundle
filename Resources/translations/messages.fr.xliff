@@ -1135,8 +1135,15 @@
                 <source>action.coupon_export_used</source>
                 <target>Exporter les utilisations</target>
             </trans-unit>
+            <trans-unit id="268">
+                <source>coupon_added</source>
+                <target>Code promo créé</target>
+            </trans-unit>
+            <trans-unit id="269">
+                <source>coupon_codes_generated</source>
+                <target>Codes générés</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
-
 
