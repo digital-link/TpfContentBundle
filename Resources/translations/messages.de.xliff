@@ -1045,6 +1045,90 @@
                 <source>statistiques-prestataires-explication-single</source>
                 <target>Verpflichtungen nach Produkt.</target>
             </trans-unit>
+            <trans-unit id="249">
+                <source>discount</source>
+                <target>Rabat</target>
+            </trans-unit>
+            <trans-unit id="250">
+                <source>action.apply_discount</source>
+                <target>Add</target>
+            </trans-unit>
+             <trans-unit id="251">
+                <source>coupon_code</source>
+                <target>Aktionscode</target>
+            </trans-unit>
+            <trans-unit id="252">
+                <source>name</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit id="253">
+                <source>validity_start</source>
+                <target>Beginn der Gültigkeit</target>
+            </trans-unit>
+            <trans-unit id="254">
+                <source>validity_end</source>
+                <target>Ende der Gültigkeit</target>
+            </trans-unit>
+            <trans-unit id="255">
+                <source>coupon_code_use</source>
+                <target>Nutzung (gebraucht / max.)</target>
+            </trans-unit>
+            <trans-unit id="256">
+                <source>action.submit</source>
+                <target>Speichern</target>
+            </trans-unit>
+            <trans-unit id="257">
+                <source>percent</source>
+                <target>Prozentsatz</target>
+            </trans-unit>
+            <trans-unit id="258">
+                <source>chf</source>
+                <target>CHF</target>
+            </trans-unit>
+            <trans-unit id="259">
+                <source>action.add_coupon</source>
+                <target>Fügen Sie einen Promo-Code hinzu</target>
+            </trans-unit>
+            <trans-unit id="260">
+                <source>action.edit</source>
+                <target>Bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="261">
+                <source>coupon_codes</source>
+                <target>Promo-Codes</target>
+            </trans-unit>
+            <trans-unit id="262">
+                <source>action.coupon_generate</source>
+                <target>Codes generieren</target>
+            </trans-unit>
+            <trans-unit id="263">
+                <source>codes</source>
+                <target>Codes</target>
+            </trans-unit>
+            <trans-unit id="264">
+                <source>number</source>
+                <target>Nummer</target>
+            </trans-unit>
+            <trans-unit id="265">
+                <source>max_use</source>
+                <target>Nbr. maximale Nutzung</target>
+            </trans-unit>
+            <trans-unit id="266">
+                <source>action.coupon_export</source>
+                <target>Exportcodes</target>
+            </trans-unit>
+            <trans-unit id="267">
+                <source>action.coupon_export_used</source>
+                <target>Export verwendet</target>
+            </trans-unit>
+            <trans-unit id="268">
+                <source>coupon_added</source>
+                <target>Promo-Code erstellt</target>
+            </trans-unit>
+            <trans-unit id="269">
+                <source>coupon_codes_generated</source>
+                <target>Generierte Codes</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
