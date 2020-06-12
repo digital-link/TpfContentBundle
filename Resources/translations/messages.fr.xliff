@@ -1147,6 +1147,10 @@
                 <source>coupon_name</source>
                 <target>Nom du code (si nombre généré égal à 1 uniquement)</target>
             </trans-unit>
+             <trans-unit id="271">
+                <source>applicable_on</source>
+                <target>Applicable sur (si aucun produit sélectionné, s'applique sur l'enseble de la commande)</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

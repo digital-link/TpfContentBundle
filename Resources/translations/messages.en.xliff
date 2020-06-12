@@ -1134,6 +1134,10 @@
                 <source>coupon_name</source>
                 <target>Code name (if generated number equal to 1 only)</target>
             </trans-unit>
+             <trans-unit id="271">
+                <source>applicable_on</source>
+                <target>Applicable on (if no product selected, applies to the entire order)</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
