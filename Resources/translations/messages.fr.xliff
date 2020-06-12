@@ -1143,6 +1143,10 @@
                 <source>coupon_codes_generated</source>
                 <target>Codes générés</target>
             </trans-unit>
+            <trans-unit id="270">
+                <source>coupon_name</source>
+                <target>Nom du code (si nombre généré égal à 1 uniquement)</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
